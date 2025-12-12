@@ -73,13 +73,22 @@
   url: https://github.com/schollz/croc/releases/download/v10.2.1/croc_v10.2.1_macOS-ARM64.tar.gz
   version: 10.2.1
 - architecture: arm64
+  changelog: https://github.com/denoland/deno/releases/tag/v2.6.0
+  file_name: deno-aarch64-apple-darwin.zip
+  platform: darwin
+  released_at: 2025-12-10T17:00:44Z
+  sha256_checksum: 2bde8aa54e27048f09a5a1ce1a875b03223430a57b9d96c2cdd6ad3b0bd0a026
+  tags:
+    - latest
+  tool_ref: deno
+  url: https://github.com/denoland/deno/releases/download/v2.6.0/deno-aarch64-apple-darwin.zip
+  version: 2.6.0
+- architecture: arm64
   changelog: https://github.com/denoland/deno/releases/tag/v2.5.6
   file_name: deno-aarch64-apple-darwin.zip
   platform: darwin
   released_at: 2025-10-30T04:46:32Z
   sha256_checksum: 32a5b2bcf49432715719c7c769529269fbd08cafdc059b7cecd42f9d771059ab
-  tags:
-    - latest
   tool_ref: deno
   url: https://github.com/denoland/deno/releases/download/v2.5.6/deno-aarch64-apple-darwin.zip
   version: 2.5.6
@@ -469,13 +478,31 @@
   url: https://github.com/air-verse/air/releases/download/v1.49.0/air_1.49.0_darwin_arm64
   version: 1.49.0
 - architecture: arm64
+  changelog: https://github.com/Zxilly/go-size-analyzer/releases/tag/v1.10.2
+  file_name: go-size-analyzer_1.10.2_darwin_arm64.tar.gz
+  platform: darwin
+  released_at: 2025-12-10T16:11:08Z
+  sha256_checksum: 54213ac16da338dd666480a6229a6361f7075668818186ff8ac1dbf247007f24
+  tags:
+    - latest
+  tool_ref: go_size_analyzer
+  url: https://github.com/Zxilly/go-size-analyzer/releases/download/v1.10.2/go-size-analyzer_1.10.2_darwin_arm64.tar.gz
+  version: 1.10.2
+- architecture: arm64
+  changelog: https://github.com/Zxilly/go-size-analyzer/releases/tag/v1.10.1
+  file_name: go-size-analyzer_1.10.1_darwin_arm64.tar.gz
+  platform: darwin
+  released_at: 2025-12-07T14:27:50Z
+  sha256_checksum: 9f765726a0566421d683ffa0545a1cd544c63c729f326c8fa1641e3ec200ffcc
+  tool_ref: go_size_analyzer
+  url: https://github.com/Zxilly/go-size-analyzer/releases/download/v1.10.1/go-size-analyzer_1.10.1_darwin_arm64.tar.gz
+  version: 1.10.1
+- architecture: arm64
   changelog: https://github.com/Zxilly/go-size-analyzer/releases/tag/v1.10.0
   file_name: go-size-analyzer_1.10.0_darwin_arm64.tar.gz
   platform: darwin
   released_at: 2025-09-13T15:56:47Z
   sha256_checksum: 109469920d946f8ff780af75df4ad702dd4b1cb4f34e79cd6e4c375ee49c001a
-  tags:
-    - latest
   tool_ref: go_size_analyzer
   url: https://github.com/Zxilly/go-size-analyzer/releases/download/v1.10.0/go-size-analyzer_1.10.0_darwin_arm64.tar.gz
   version: 1.10.0
@@ -489,13 +516,22 @@
   url: https://github.com/Zxilly/go-size-analyzer/releases/download/v1.9.2/go-size-analyzer_1.9.2_darwin_arm64.tar.gz
   version: 1.9.2
 - architecture: arm64
+  changelog: https://github.com/golangci/golangci-lint/releases/tag/v2.7.2
+  file_name: golangci-lint-2.7.2-darwin-arm64.tar.gz
+  platform: darwin
+  released_at: 2025-12-07T17:23:04Z
+  sha256_checksum: 6ce86a00e22b3709f7b994838659c322fdc9eae09e263db50439ad4f6ec5785c
+  tags:
+    - latest
+  tool_ref: golangcilint
+  url: https://github.com/golangci/golangci-lint/releases/download/v2.7.2/golangci-lint-2.7.2-darwin-arm64.tar.gz
+  version: 2.7.2
+- architecture: arm64
   changelog: https://github.com/golangci/golangci-lint/releases/tag/v2.7.1
   file_name: golangci-lint-2.7.1-darwin-arm64.tar.gz
   platform: darwin
   released_at: 2025-12-04T14:54:57Z
   sha256_checksum: b4a7b574d47a1e5e3d9e13636b121a4a15303410939f0ef25d1f32696e94d043
-  tags:
-    - latest
   tool_ref: golangcilint
   url: https://github.com/golangci/golangci-lint/releases/download/v2.7.1/golangci-lint-2.7.1-darwin-arm64.tar.gz
   version: 2.7.1
@@ -752,13 +788,22 @@
   url: https://github.com/golangci/golangci-lint/releases/download/v1.64.2/golangci-lint-1.64.2-darwin-arm64.tar.gz
   version: 1.64.2
 - architecture: arm64
+  changelog: https://github.com/goreleaser/goreleaser/releases/tag/v2.13.1
+  file_name: goreleaser_Darwin_arm64.tar.gz
+  platform: darwin
+  released_at: 2025-12-07T21:47:47Z
+  sha256_checksum: 2f9fbc80c666a9f92f460a14c01bc2be381a5a03c42a7a44099e75857e3fecb9
+  tags:
+    - latest
+  tool_ref: goreleaser
+  url: https://github.com/goreleaser/goreleaser/releases/download/v2.13.1/goreleaser_Darwin_arm64.tar.gz
+  version: 2.13.1
+- architecture: arm64
   changelog: https://github.com/goreleaser/goreleaser/releases/tag/v2.13.0
   file_name: goreleaser_Darwin_arm64.tar.gz
   platform: darwin
   released_at: 2025-11-30T19:37:22Z
   sha256_checksum: b6cc86065c42f03260902fade4217d325c46fbb144e868ace375bd8c12b216ce
-  tags:
-    - latest
   tool_ref: goreleaser
   url: https://github.com/goreleaser/goreleaser/releases/download/v2.13.0/goreleaser_Darwin_arm64.tar.gz
   version: 2.13.0
@@ -1028,13 +1073,22 @@
   url: https://raw.pkg.keygen.sh/keygen/cli/2.9.1/keygen_darwin_arm64
   version: 2.9.1
 - architecture: arm64
+  changelog: https://github.com/localstack/localstack-cli/releases/tag/v4.12.0
+  file_name: localstack-cli-4.12.0-darwin-arm64-onefile.tar.gz
+  platform: darwin
+  released_at: 2025-12-11T14:17:31Z
+  sha256_checksum: 5b1056c094c5c4ddcbd4e054281ce7810ca766bc8429350dc289fd1ee0bf2d68
+  tags:
+    - latest
+  tool_ref: localstack_cli
+  url: https://github.com/localstack/localstack-cli/releases/download/v4.12.0/localstack-cli-4.12.0-darwin-arm64-onefile.tar.gz
+  version: 4.12.0
+- architecture: arm64
   changelog: https://github.com/localstack/localstack-cli/releases/tag/v4.11.1
   file_name: localstack-cli-4.11.1-darwin-arm64-onefile.tar.gz
   platform: darwin
   released_at: 2025-11-26T12:12:08Z
   sha256_checksum: ffd50e3a11fd04b6d800377efe4ff2c9cfa8a3318cb837b66ed2fec9f21fc034
-  tags:
-    - latest
   tool_ref: localstack_cli
   url: https://github.com/localstack/localstack-cli/releases/download/v4.11.1/localstack-cli-4.11.1-darwin-arm64-onefile.tar.gz
   version: 4.11.1
@@ -2692,8 +2746,6 @@
   platform: darwin
   released_at: 2025-11-27T14:44:23Z
   sha256_checksum: ""
-  tags:
-    - latest
   tool_ref: pnpm
   url: https://github.com/pnpm/pnpm/releases/download/v10.24.0/pnpm-macos-arm64
   version: 10.24.0
@@ -3040,13 +3092,22 @@
   url: https://github.com/pnpm/pnpm/releases/download/v9.15.8/pnpm-macos-arm64
   version: 9.15.8
 - architecture: arm64
+  changelog: https://github.com/containers/podman/releases/tag/v5.7.1
+  file_name: podman-remote-release-darwin_arm64.zip
+  platform: darwin
+  released_at: 2025-12-10T16:38:28Z
+  sha256_checksum: e5eed3ab36c93bec9738241974ff86d173bd1251621a8f2f7aec933c579f4968
+  tags:
+    - latest
+  tool_ref: podman
+  url: https://github.com/containers/podman/releases/download/v5.7.1/podman-remote-release-darwin_arm64.zip
+  version: 5.7.1
+- architecture: arm64
   changelog: https://github.com/containers/podman/releases/tag/v5.7.0
   file_name: podman-remote-release-darwin_arm64.zip
   platform: darwin
   released_at: 2025-11-11T19:04:01Z
   sha256_checksum: da093f219cdefaa2f8db92714b521cd15004ed17eab7d3ed246a10791be82788
-  tags:
-    - latest
   tool_ref: podman
   url: https://github.com/containers/podman/releases/download/v5.7.0/podman-remote-release-darwin_arm64.zip
   version: 5.7.0
@@ -3319,13 +3380,76 @@
   url: https://github.com/stripe/stripe-cli/releases/download/v1.28.0/stripe_1.28.0_mac-os_arm64.tar.gz
   version: 1.28.0
 - architecture: arm64
+  changelog: https://github.com/supabase/cli/releases/tag/v2.67.0
+  file_name: supabase_darwin_arm64.tar.gz
+  platform: darwin
+  released_at: 2025-12-12T11:35:39Z
+  sha256_checksum: 713d2c5d76074b53161bb4199ec1ff8956b18dc0689eb15564c97f8d81368582
+  tags:
+    - latest
+  tool_ref: supabase_cli
+  url: https://github.com/supabase/cli/releases/download/v2.67.0/supabase_darwin_arm64.tar.gz
+  version: 2.67.0
+- architecture: arm64
+  changelog: https://github.com/supabase/cli/releases/tag/v2.66.1
+  file_name: supabase_darwin_arm64.tar.gz
+  platform: darwin
+  released_at: 2025-12-12T11:25:00Z
+  sha256_checksum: 554a8148ef75edec97ed336be79bddcdfd2ebd4f855c3d178646ec473367fc93
+  tool_ref: supabase_cli
+  url: https://github.com/supabase/cli/releases/download/v2.66.1/supabase_darwin_arm64.tar.gz
+  version: 2.66.1
+- architecture: arm64
+  changelog: https://github.com/supabase/cli/releases/tag/v2.66.0
+  file_name: supabase_darwin_arm64.tar.gz
+  platform: darwin
+  released_at: 2025-12-11T12:02:20Z
+  sha256_checksum: 982d93ecc703de61dcd2a13718f847dacc38400838f7908f391659b4bf405cfb
+  tool_ref: supabase_cli
+  url: https://github.com/supabase/cli/releases/download/v2.66.0/supabase_darwin_arm64.tar.gz
+  version: 2.66.0
+- architecture: arm64
+  changelog: https://github.com/supabase/cli/releases/tag/v2.65.10
+  file_name: supabase_darwin_arm64.tar.gz
+  platform: darwin
+  released_at: 2025-12-11T06:58:34Z
+  sha256_checksum: 42bc3315686a95ddff0e9f358405785669881e42e32011fda540efa67ecf85e3
+  tool_ref: supabase_cli
+  url: https://github.com/supabase/cli/releases/download/v2.65.10/supabase_darwin_arm64.tar.gz
+  version: 2.65.10
+- architecture: arm64
+  changelog: https://github.com/supabase/cli/releases/tag/v2.65.9
+  file_name: supabase_darwin_arm64.tar.gz
+  platform: darwin
+  released_at: 2025-12-11T04:33:29Z
+  sha256_checksum: c772e4ceb7d5725edc0d5fdea7b0b15e2fb06d8aa62c0950451f20fee6d44a58
+  tool_ref: supabase_cli
+  url: https://github.com/supabase/cli/releases/download/v2.65.9/supabase_darwin_arm64.tar.gz
+  version: 2.65.9
+- architecture: arm64
+  changelog: https://github.com/supabase/cli/releases/tag/v2.65.8
+  file_name: supabase_darwin_arm64.tar.gz
+  platform: darwin
+  released_at: 2025-12-10T12:36:40Z
+  sha256_checksum: c88d2cfa494ea84c0fec0d71cb1f02c4fa9eebf24b91fc7fd37c9927163d71a4
+  tool_ref: supabase_cli
+  url: https://github.com/supabase/cli/releases/download/v2.65.8/supabase_darwin_arm64.tar.gz
+  version: 2.65.8
+- architecture: arm64
+  changelog: https://github.com/supabase/cli/releases/tag/v2.65.7
+  file_name: supabase_darwin_arm64.tar.gz
+  platform: darwin
+  released_at: 2025-12-09T06:36:53Z
+  sha256_checksum: d31417363406d891b846e5b840e78f5365c35a0a78740b3f8334b9402b58c2d8
+  tool_ref: supabase_cli
+  url: https://github.com/supabase/cli/releases/download/v2.65.7/supabase_darwin_arm64.tar.gz
+  version: 2.65.7
+- architecture: arm64
   changelog: https://github.com/supabase/cli/releases/tag/v2.65.6
   file_name: supabase_darwin_arm64.tar.gz
   platform: darwin
   released_at: 2025-12-04T14:03:57Z
   sha256_checksum: 07e76be70e42e881b22f8301fb9636da2ef98e82b03cdecbaa549cbfaee0a881
-  tags:
-    - latest
   tool_ref: supabase_cli
   url: https://github.com/supabase/cli/releases/download/v2.65.6/supabase_darwin_arm64.tar.gz
   version: 2.65.6
@@ -4977,14 +5101,23 @@
   url: https://github.com/supabase/cli/releases/download/v2.31.4/supabase_darwin_arm64.tar.gz
   version: 2.31.4
 - architecture: arm64
+  changelog: https://github.com/tailwindlabs/tailwindcss/releases/tag/v4.1.18
+  file_name: tailwindcss-macos-arm64
+  platform: darwin
+  released_at: 2025-12-11T16:31:46Z
+  sha256_checksum: ""
+  tags:
+    - latest
+    - V4
+  tool_ref: tailwind_cli
+  url: https://github.com/tailwindlabs/tailwindcss/releases/download/v4.1.18/tailwindcss-macos-arm64
+  version: 4.1.18
+- architecture: arm64
   changelog: https://github.com/tailwindlabs/tailwindcss/releases/tag/v4.1.17
   file_name: tailwindcss-macos-arm64
   platform: darwin
   released_at: 2025-11-06T15:34:59Z
   sha256_checksum: ""
-  tags:
-    - latest
-    - V4
   tool_ref: tailwind_cli
   url: https://github.com/tailwindlabs/tailwindcss/releases/download/v4.1.17/tailwindcss-macos-arm64
   version: 4.1.17
@@ -5484,13 +5617,22 @@
   url: https://github.com/tailwindlabs/tailwindcss/releases/download/v4.0.0-alpha.27/tailwindcss-macos-arm64
   version: 4.0.0-alpha.27
 - architecture: arm64
+  changelog: https://github.com/tailwindlabs/tailwindcss/releases/tag/v3.4.19
+  file_name: tailwindcss-macos-arm64
+  platform: darwin
+  released_at: 2025-12-10T18:39:41Z
+  sha256_checksum: ""
+  tags:
+    - V3
+  tool_ref: tailwind_cli
+  url: https://github.com/tailwindlabs/tailwindcss/releases/download/v3.4.19/tailwindcss-macos-arm64
+  version: 3.4.19
+- architecture: arm64
   changelog: https://github.com/tailwindlabs/tailwindcss/releases/tag/v3.4.18
   file_name: tailwindcss-macos-arm64
   platform: darwin
   released_at: 2025-10-01T15:29:54Z
   sha256_checksum: ""
-  tags:
-    - V3
   tool_ref: tailwind_cli
   url: https://github.com/tailwindlabs/tailwindcss/releases/download/v3.4.18/tailwindcss-macos-arm64
   version: 3.4.18
@@ -5623,13 +5765,49 @@
   url: https://github.com/aquasecurity/trivy/releases/download/v0.62.0/trivy_0.62.0_macOS-ARM64.tar.gz
   version: 0.62.0
 - architecture: arm64
+  changelog: https://github.com/trufflesecurity/trufflehog/releases/tag/v3.92.3
+  file_name: trufflehog_3.92.3_darwin_arm64.tar.gz
+  platform: darwin
+  released_at: 2025-12-11T15:34:58Z
+  sha256_checksum: 77400fdd8eb21c931306765f04b04530fa1b1ef2da3efcf3ae5d41872ddf46fe
+  tags:
+    - latest
+  tool_ref: trufflehog
+  url: https://github.com/trufflesecurity/trufflehog/releases/download/v3.92.3/trufflehog_3.92.3_darwin_arm64.tar.gz
+  version: 3.92.3
+- architecture: arm64
+  changelog: https://github.com/trufflesecurity/trufflehog/releases/tag/v3.92.2
+  file_name: trufflehog_3.92.2_darwin_arm64.tar.gz
+  platform: darwin
+  released_at: 2025-12-10T15:16:30Z
+  sha256_checksum: fcd5fcf61b09e57054bab9a8b9e6af2cfb89926b45d66f085f6744956d4d3df1
+  tool_ref: trufflehog
+  url: https://github.com/trufflesecurity/trufflehog/releases/download/v3.92.2/trufflehog_3.92.2_darwin_arm64.tar.gz
+  version: 3.92.2
+- architecture: arm64
+  changelog: https://github.com/trufflesecurity/trufflehog/releases/tag/v3.92.1
+  file_name: trufflehog_3.92.1_darwin_arm64.tar.gz
+  platform: darwin
+  released_at: 2025-12-09T18:33:05Z
+  sha256_checksum: 7131dcd51d4e8678a88e7f9ca9e215557d70a17bf52a5728b12d99dd13501930
+  tool_ref: trufflehog
+  url: https://github.com/trufflesecurity/trufflehog/releases/download/v3.92.1/trufflehog_3.92.1_darwin_arm64.tar.gz
+  version: 3.92.1
+- architecture: arm64
+  changelog: https://github.com/trufflesecurity/trufflehog/releases/tag/v3.92.0
+  file_name: trufflehog_3.92.0_darwin_arm64.tar.gz
+  platform: darwin
+  released_at: 2025-12-09T14:54:23Z
+  sha256_checksum: ec651b9e43340f683e86904675d7cda8336a57727a96f17ffa70713605cf9ef8
+  tool_ref: trufflehog
+  url: https://github.com/trufflesecurity/trufflehog/releases/download/v3.92.0/trufflehog_3.92.0_darwin_arm64.tar.gz
+  version: 3.92.0
+- architecture: arm64
   changelog: https://github.com/trufflesecurity/trufflehog/releases/tag/v3.91.2
   file_name: trufflehog_3.91.2_darwin_arm64.tar.gz
   platform: darwin
   released_at: 2025-12-02T14:27:49Z
   sha256_checksum: c86f385bdcc933272609462ba13c972b56f497351b93b21306ae461c961d6976
-  tags:
-    - latest
   tool_ref: trufflehog
   url: https://github.com/trufflesecurity/trufflehog/releases/download/v3.91.2/trufflehog_3.91.2_darwin_arm64.tar.gz
   version: 3.91.2
@@ -6093,13 +6271,22 @@
   url: https://github.com/trufflesecurity/trufflehog/releases/download/v3.88.4/trufflehog_3.88.4_darwin_arm64.tar.gz
   version: 3.88.4
 - architecture: arm64
+  changelog: https://github.com/astral-sh/uv/releases/tag/0.9.17
+  file_name: uv-aarch64-apple-darwin.tar.gz
+  platform: darwin
+  released_at: 2025-12-09T23:05:20Z
+  sha256_checksum: ""
+  tags:
+    - latest
+  tool_ref: uv
+  url: https://github.com/astral-sh/uv/releases/download/0.9.17/uv-aarch64-apple-darwin.tar.gz
+  version: 0.9.17
+- architecture: arm64
   changelog: https://github.com/astral-sh/uv/releases/tag/0.9.16
   file_name: uv-aarch64-apple-darwin.tar.gz
   platform: darwin
   released_at: 2025-12-06T14:22:06Z
   sha256_checksum: ""
-  tags:
-    - latest
   tool_ref: uv
   url: https://github.com/astral-sh/uv/releases/download/0.9.16/uv-aarch64-apple-darwin.tar.gz
   version: 0.9.16
@@ -6870,6 +7057,30 @@
   tool_ref: vfkit
   url: https://github.com/crc-org/vfkit/releases/download/v0.5.0/vfkit
   version: 0.5.0
+- architecture: arm64
+  changelog: https://github.com/wailsapp/wails/releases/tag/v3.0.0-alpha.44
+  file_name: ""
+  platform: darwin
+  sha256_checksum: ""
+  tool_ref: wails
+  url: ""
+  version: 3.0.0-alpha.44
+- architecture: arm64
+  changelog: https://github.com/wailsapp/wails/releases/tag/v3.0.0-alpha.43
+  file_name: ""
+  platform: darwin
+  sha256_checksum: ""
+  tool_ref: wails
+  url: ""
+  version: 3.0.0-alpha.43
+- architecture: arm64
+  changelog: https://github.com/wailsapp/wails/releases/tag/v3.0.0-alpha.42
+  file_name: ""
+  platform: darwin
+  sha256_checksum: ""
+  tool_ref: wails
+  url: ""
+  version: 3.0.0-alpha.42
 - architecture: arm64
   changelog: https://github.com/wailsapp/wails/releases/tag/v3.0.0-alpha.41
   file_name: ""

@@ -73,13 +73,22 @@
   url: https://github.com/schollz/croc/releases/download/v10.2.1/croc_v10.2.1_macOS-64bit.tar.gz
   version: 10.2.1
 - architecture: amd64
+  changelog: https://github.com/denoland/deno/releases/tag/v2.6.0
+  file_name: deno-x86_64-apple-darwin.zip
+  platform: darwin
+  released_at: 2025-12-10T17:00:44Z
+  sha256_checksum: eef2dc47a3884d38e7e4807c49135fb0673260dc5521533e0569ac20a3e4bd54
+  tags:
+    - latest
+  tool_ref: deno
+  url: https://github.com/denoland/deno/releases/download/v2.6.0/deno-x86_64-apple-darwin.zip
+  version: 2.6.0
+- architecture: amd64
   changelog: https://github.com/denoland/deno/releases/tag/v2.5.6
   file_name: deno-x86_64-apple-darwin.zip
   platform: darwin
   released_at: 2025-10-30T04:46:32Z
   sha256_checksum: bd2a862509f930c5dee2aaef4939d6c161d833a7fec8d385d0c6e55c3136c4c2
-  tags:
-    - latest
   tool_ref: deno
   url: https://github.com/denoland/deno/releases/download/v2.5.6/deno-x86_64-apple-darwin.zip
   version: 2.5.6
@@ -485,13 +494,31 @@
   url: https://github.com/air-verse/air/releases/download/v1.48.0/air_1.48.0_darwin_amd64
   version: 1.48.0
 - architecture: amd64
+  changelog: https://github.com/Zxilly/go-size-analyzer/releases/tag/v1.10.2
+  file_name: go-size-analyzer_1.10.2_darwin_amd64.tar.gz
+  platform: darwin
+  released_at: 2025-12-10T16:11:08Z
+  sha256_checksum: 6c3c5cbd8f3f37dc99d6159b2523a573aa0de865901f73731726e1e36e8d2fa8
+  tags:
+    - latest
+  tool_ref: go_size_analyzer
+  url: https://github.com/Zxilly/go-size-analyzer/releases/download/v1.10.2/go-size-analyzer_1.10.2_darwin_amd64.tar.gz
+  version: 1.10.2
+- architecture: amd64
+  changelog: https://github.com/Zxilly/go-size-analyzer/releases/tag/v1.10.1
+  file_name: go-size-analyzer_1.10.1_darwin_amd64.tar.gz
+  platform: darwin
+  released_at: 2025-12-07T14:27:50Z
+  sha256_checksum: cd0ec1cb23c73dbe3b659e0258ee6fa5323568c04651806cbc2d265d9193c21e
+  tool_ref: go_size_analyzer
+  url: https://github.com/Zxilly/go-size-analyzer/releases/download/v1.10.1/go-size-analyzer_1.10.1_darwin_amd64.tar.gz
+  version: 1.10.1
+- architecture: amd64
   changelog: https://github.com/Zxilly/go-size-analyzer/releases/tag/v1.10.0
   file_name: go-size-analyzer_1.10.0_darwin_amd64.tar.gz
   platform: darwin
   released_at: 2025-09-13T15:56:47Z
   sha256_checksum: 58b4f5a92a4736d67a0951f8450f5ac967643dec53e74a53596a189da3b70854
-  tags:
-    - latest
   tool_ref: go_size_analyzer
   url: https://github.com/Zxilly/go-size-analyzer/releases/download/v1.10.0/go-size-analyzer_1.10.0_darwin_amd64.tar.gz
   version: 1.10.0
@@ -505,13 +532,22 @@
   url: https://github.com/Zxilly/go-size-analyzer/releases/download/v1.9.2/go-size-analyzer_1.9.2_darwin_amd64.tar.gz
   version: 1.9.2
 - architecture: amd64
+  changelog: https://github.com/golangci/golangci-lint/releases/tag/v2.7.2
+  file_name: golangci-lint-2.7.2-darwin-amd64.tar.gz
+  platform: darwin
+  released_at: 2025-12-07T17:23:04Z
+  sha256_checksum: 6966554840a02229a14c52641bc38c2c7a14d396f4c59ba0c7c8bb0675ca25c9
+  tags:
+    - latest
+  tool_ref: golangcilint
+  url: https://github.com/golangci/golangci-lint/releases/download/v2.7.2/golangci-lint-2.7.2-darwin-amd64.tar.gz
+  version: 2.7.2
+- architecture: amd64
   changelog: https://github.com/golangci/golangci-lint/releases/tag/v2.7.1
   file_name: golangci-lint-2.7.1-darwin-amd64.tar.gz
   platform: darwin
   released_at: 2025-12-04T14:54:57Z
   sha256_checksum: ad6b614138f4db8bc5d27c81fc7ffbf55e155efd6a29618c92d06483bbdfe5b3
-  tags:
-    - latest
   tool_ref: golangcilint
   url: https://github.com/golangci/golangci-lint/releases/download/v2.7.1/golangci-lint-2.7.1-darwin-amd64.tar.gz
   version: 2.7.1
@@ -842,13 +878,22 @@
   url: https://raw.pkg.keygen.sh/keygen/cli/2.9.1/keygen_darwin_amd64
   version: 2.9.1
 - architecture: amd64
+  changelog: https://github.com/localstack/localstack-cli/releases/tag/v4.12.0
+  file_name: localstack-cli-4.12.0-darwin-amd64-onefile.tar.gz
+  platform: darwin
+  released_at: 2025-12-11T14:17:31Z
+  sha256_checksum: 2caa9f40b646f514b850a7bdc4d16c6624575af4392d09bd6167402258fbae9d
+  tags:
+    - latest
+  tool_ref: localstack_cli
+  url: https://github.com/localstack/localstack-cli/releases/download/v4.12.0/localstack-cli-4.12.0-darwin-amd64-onefile.tar.gz
+  version: 4.12.0
+- architecture: amd64
   changelog: https://github.com/localstack/localstack-cli/releases/tag/v4.11.1
   file_name: localstack-cli-4.11.1-darwin-amd64-onefile.tar.gz
   platform: darwin
   released_at: 2025-11-26T12:12:08Z
   sha256_checksum: 13e39092b7c0a75688ebd90dfc4eacbb3ddb795de2501159dc84f60af1c98946
-  tags:
-    - latest
   tool_ref: localstack_cli
   url: https://github.com/localstack/localstack-cli/releases/download/v4.11.1/localstack-cli-4.11.1-darwin-amd64-onefile.tar.gz
   version: 4.11.1
@@ -2506,8 +2551,6 @@
   platform: darwin
   released_at: 2025-11-27T14:44:23Z
   sha256_checksum: ""
-  tags:
-    - latest
   tool_ref: pnpm
   url: https://github.com/pnpm/pnpm/releases/download/v10.24.0/pnpm-macos-x64
   version: 10.24.0
@@ -2854,13 +2897,22 @@
   url: https://github.com/pnpm/pnpm/releases/download/v9.15.8/pnpm-macos-x64
   version: 9.15.8
 - architecture: amd64
+  changelog: https://github.com/containers/podman/releases/tag/v5.7.1
+  file_name: podman-remote-release-darwin_amd64.zip
+  platform: darwin
+  released_at: 2025-12-10T16:38:28Z
+  sha256_checksum: aa804332f8bcc8b65d34e369bcc8de9ad5d6acda9cf0a2eb4781db0626a361f1
+  tags:
+    - latest
+  tool_ref: podman
+  url: https://github.com/containers/podman/releases/download/v5.7.1/podman-remote-release-darwin_amd64.zip
+  version: 5.7.1
+- architecture: amd64
   changelog: https://github.com/containers/podman/releases/tag/v5.7.0
   file_name: podman-remote-release-darwin_amd64.zip
   platform: darwin
   released_at: 2025-11-11T19:04:01Z
   sha256_checksum: c583f56a4c06d1bf23612fff522154caaf8a643d2c4e14391b6aa2a6c731bd37
-  tags:
-    - latest
   tool_ref: podman
   url: https://github.com/containers/podman/releases/download/v5.7.0/podman-remote-release-darwin_amd64.zip
   version: 5.7.0
@@ -3056,13 +3108,76 @@
   url: https://github.com/boyter/scc/releases/download/v3.5.0/scc_Darwin_x86_64.tar.gz
   version: 3.5.0
 - architecture: amd64
+  changelog: https://github.com/supabase/cli/releases/tag/v2.67.0
+  file_name: supabase_darwin_amd64.tar.gz
+  platform: darwin
+  released_at: 2025-12-12T11:35:39Z
+  sha256_checksum: 68fef10cf23940752a17d7b648443158ff18d24c402f8a0bccab01ba6e007388
+  tags:
+    - latest
+  tool_ref: supabase_cli
+  url: https://github.com/supabase/cli/releases/download/v2.67.0/supabase_darwin_amd64.tar.gz
+  version: 2.67.0
+- architecture: amd64
+  changelog: https://github.com/supabase/cli/releases/tag/v2.66.1
+  file_name: supabase_darwin_amd64.tar.gz
+  platform: darwin
+  released_at: 2025-12-12T11:25:00Z
+  sha256_checksum: 95faf10432d707b18dce921ebe9c6ddf6daa363016c20955bef9cf98f2ba55e2
+  tool_ref: supabase_cli
+  url: https://github.com/supabase/cli/releases/download/v2.66.1/supabase_darwin_amd64.tar.gz
+  version: 2.66.1
+- architecture: amd64
+  changelog: https://github.com/supabase/cli/releases/tag/v2.66.0
+  file_name: supabase_darwin_amd64.tar.gz
+  platform: darwin
+  released_at: 2025-12-11T12:02:20Z
+  sha256_checksum: f7fb865bbd561427f7000e7f3d910c9bdae50a9e160f9f73a688905ae25b2a90
+  tool_ref: supabase_cli
+  url: https://github.com/supabase/cli/releases/download/v2.66.0/supabase_darwin_amd64.tar.gz
+  version: 2.66.0
+- architecture: amd64
+  changelog: https://github.com/supabase/cli/releases/tag/v2.65.10
+  file_name: supabase_darwin_amd64.tar.gz
+  platform: darwin
+  released_at: 2025-12-11T06:58:34Z
+  sha256_checksum: 5630024007bac5d36db264e1ac171876d093145e4421102df00dafd648469db0
+  tool_ref: supabase_cli
+  url: https://github.com/supabase/cli/releases/download/v2.65.10/supabase_darwin_amd64.tar.gz
+  version: 2.65.10
+- architecture: amd64
+  changelog: https://github.com/supabase/cli/releases/tag/v2.65.9
+  file_name: supabase_darwin_amd64.tar.gz
+  platform: darwin
+  released_at: 2025-12-11T04:33:29Z
+  sha256_checksum: 68814ef36856790a0111c3ea525d1d34d0b66891e8623628cc621160ce792c7c
+  tool_ref: supabase_cli
+  url: https://github.com/supabase/cli/releases/download/v2.65.9/supabase_darwin_amd64.tar.gz
+  version: 2.65.9
+- architecture: amd64
+  changelog: https://github.com/supabase/cli/releases/tag/v2.65.8
+  file_name: supabase_darwin_amd64.tar.gz
+  platform: darwin
+  released_at: 2025-12-10T12:36:40Z
+  sha256_checksum: 2227b7e8a84367683df7e51c4a2dd0629972e943ce391c4efb2769ac83e95de0
+  tool_ref: supabase_cli
+  url: https://github.com/supabase/cli/releases/download/v2.65.8/supabase_darwin_amd64.tar.gz
+  version: 2.65.8
+- architecture: amd64
+  changelog: https://github.com/supabase/cli/releases/tag/v2.65.7
+  file_name: supabase_darwin_amd64.tar.gz
+  platform: darwin
+  released_at: 2025-12-09T06:36:53Z
+  sha256_checksum: ece7746541834b2a854cf3b8d0830bffdc1e03e485183cb191a94a7840c0ff70
+  tool_ref: supabase_cli
+  url: https://github.com/supabase/cli/releases/download/v2.65.7/supabase_darwin_amd64.tar.gz
+  version: 2.65.7
+- architecture: amd64
   changelog: https://github.com/supabase/cli/releases/tag/v2.65.6
   file_name: supabase_darwin_amd64.tar.gz
   platform: darwin
   released_at: 2025-12-04T14:03:57Z
   sha256_checksum: 8e1f57f4c89df2bbff0a2d15652e57889983386514b5a14a5dd2e1ef0667b522
-  tags:
-    - latest
   tool_ref: supabase_cli
   url: https://github.com/supabase/cli/releases/download/v2.65.6/supabase_darwin_amd64.tar.gz
   version: 2.65.6
@@ -4815,13 +4930,49 @@
   url: https://github.com/aquasecurity/trivy/releases/download/v0.62.0/trivy_0.62.0_macOS-64bit.tar.gz
   version: 0.62.0
 - architecture: amd64
+  changelog: https://github.com/trufflesecurity/trufflehog/releases/tag/v3.92.3
+  file_name: trufflehog_3.92.3_darwin_amd64.tar.gz
+  platform: darwin
+  released_at: 2025-12-11T15:34:58Z
+  sha256_checksum: 4b9033e8b0e0b0844e589360ec5dfef18dd937615d336042806c495d74ad7c96
+  tags:
+    - latest
+  tool_ref: trufflehog
+  url: https://github.com/trufflesecurity/trufflehog/releases/download/v3.92.3/trufflehog_3.92.3_darwin_amd64.tar.gz
+  version: 3.92.3
+- architecture: amd64
+  changelog: https://github.com/trufflesecurity/trufflehog/releases/tag/v3.92.2
+  file_name: trufflehog_3.92.2_darwin_amd64.tar.gz
+  platform: darwin
+  released_at: 2025-12-10T15:16:30Z
+  sha256_checksum: 3ab257b1df461a7d4bb4c8e271d212cce5580c62c23bf9d1e01192c985c04078
+  tool_ref: trufflehog
+  url: https://github.com/trufflesecurity/trufflehog/releases/download/v3.92.2/trufflehog_3.92.2_darwin_amd64.tar.gz
+  version: 3.92.2
+- architecture: amd64
+  changelog: https://github.com/trufflesecurity/trufflehog/releases/tag/v3.92.1
+  file_name: trufflehog_3.92.1_darwin_amd64.tar.gz
+  platform: darwin
+  released_at: 2025-12-09T18:33:05Z
+  sha256_checksum: 7952a40fe7ea4d227e05ef9118911b1307d9695f787f6ae4f6eee41cd66588db
+  tool_ref: trufflehog
+  url: https://github.com/trufflesecurity/trufflehog/releases/download/v3.92.1/trufflehog_3.92.1_darwin_amd64.tar.gz
+  version: 3.92.1
+- architecture: amd64
+  changelog: https://github.com/trufflesecurity/trufflehog/releases/tag/v3.92.0
+  file_name: trufflehog_3.92.0_darwin_amd64.tar.gz
+  platform: darwin
+  released_at: 2025-12-09T14:54:23Z
+  sha256_checksum: c054d9fb49e3d8382e456b0f66a76cb7fe751ea8e54e2cbb8f66a98a16891356
+  tool_ref: trufflehog
+  url: https://github.com/trufflesecurity/trufflehog/releases/download/v3.92.0/trufflehog_3.92.0_darwin_amd64.tar.gz
+  version: 3.92.0
+- architecture: amd64
   changelog: https://github.com/trufflesecurity/trufflehog/releases/tag/v3.91.2
   file_name: trufflehog_3.91.2_darwin_amd64.tar.gz
   platform: darwin
   released_at: 2025-12-02T14:27:49Z
   sha256_checksum: 229ac6d818106c8d25e2f55636d78fb8f17790fd4b2ca32e0244229e447086d0
-  tags:
-    - latest
   tool_ref: trufflehog
   url: https://github.com/trufflesecurity/trufflehog/releases/download/v3.91.2/trufflehog_3.91.2_darwin_amd64.tar.gz
   version: 3.91.2
@@ -5290,8 +5441,6 @@
   platform: darwin
   released_at: 2025-12-06T14:22:06Z
   sha256_checksum: ""
-  tags:
-    - latest
   tool_ref: uv
   url: https://github.com/astral-sh/uv/releases/download/0.9.16/uv-x86_64-apple-darwin.tar.gz
   version: 0.9.16
@@ -6015,6 +6164,30 @@
   tool_ref: uv
   url: https://github.com/astral-sh/uv/releases/download/0.6.2/uv-x86_64-apple-darwin.tar.gz
   version: 0.6.2
+- architecture: amd64
+  changelog: https://github.com/wailsapp/wails/releases/tag/v3.0.0-alpha.44
+  file_name: ""
+  platform: darwin
+  sha256_checksum: ""
+  tool_ref: wails
+  url: ""
+  version: 3.0.0-alpha.44
+- architecture: amd64
+  changelog: https://github.com/wailsapp/wails/releases/tag/v3.0.0-alpha.43
+  file_name: ""
+  platform: darwin
+  sha256_checksum: ""
+  tool_ref: wails
+  url: ""
+  version: 3.0.0-alpha.43
+- architecture: amd64
+  changelog: https://github.com/wailsapp/wails/releases/tag/v3.0.0-alpha.42
+  file_name: ""
+  platform: darwin
+  sha256_checksum: ""
+  tool_ref: wails
+  url: ""
+  version: 3.0.0-alpha.42
 - architecture: amd64
   changelog: https://github.com/wailsapp/wails/releases/tag/v3.0.0-alpha.41
   file_name: ""
