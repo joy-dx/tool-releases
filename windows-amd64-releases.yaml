@@ -196,13 +196,31 @@
   url: ""
   version: 1.25.1
 - architecture: amd64
+  changelog: https://github.com/denoland/deno/releases/tag/v2.6.10
+  file_name: deno-x86_64-pc-windows-msvc.zip
+  platform: windows
+  released_at: 2026-02-17T16:05:18Z
+  sha256_checksum: sha256:6b26d272c2107ca63474c5702c824132a4a3e4469463edf0f327b9b5a5f5f854
+  tags:
+    - latest
+  tool_ref: deno
+  url: https://github.com/denoland/deno/releases/download/v2.6.10/deno-x86_64-pc-windows-msvc.zip
+  version: 2.6.10
+- architecture: amd64
+  changelog: https://github.com/denoland/deno/releases/tag/v2.6.9
+  file_name: deno-x86_64-pc-windows-msvc.zip
+  platform: windows
+  released_at: 2026-02-10T17:22:03Z
+  sha256_checksum: sha256:2d2feaed5aa9ac55c2207adcbe45fc0773632c2fac8cf5f3d41b691fe2246ed3
+  tool_ref: deno
+  url: https://github.com/denoland/deno/releases/download/v2.6.9/deno-x86_64-pc-windows-msvc.zip
+  version: 2.6.9
+- architecture: amd64
   changelog: https://github.com/denoland/deno/releases/tag/v2.6.8
   file_name: deno-x86_64-pc-windows-msvc.zip
   platform: windows
   released_at: 2026-02-02T18:00:56Z
   sha256_checksum: sha256:febe91c13a3bd5509f77058f1376bff99c76b518046ebd46fe385bbf81b836d9
-  tags:
-    - latest
   tool_ref: deno
   url: https://github.com/denoland/deno/releases/download/v2.6.8/deno-x86_64-pc-windows-msvc.zip
   version: 2.6.8
@@ -353,11 +371,18 @@
   url: https://github.com/docker/docker-credential-helpers/releases/download/v0.9.3/docker-credential-wincred-v0.9.3.windows-amd64.exe
   version: 0.9.3
 - architecture: amd64
+  file_name: go1.26.0.windows-amd64.zip
+  platform: windows
+  sha256_checksum: 9bbe0fc64236b2b51f6255c05c4232532b8ecc0e6d2e00950bd3021d8a4d07d4
+  tags:
+    - latest
+  tool_ref: go
+  url: https://go.dev/dl/go1.26.0.windows-amd64.zip
+  version: 1.26.0
+- architecture: amd64
   file_name: go1.25.7.windows-amd64.zip
   platform: windows
   sha256_checksum: c75e5f4ff62d085cc0017be3ad19d5536f46825fa05db06ec468941f847e3228
-  tags:
-    - latest
   tool_ref: go
   url: https://go.dev/dl/go1.25.7.windows-amd64.zip
   version: 1.25.7
@@ -1160,13 +1185,22 @@
   url: https://github.com/air-verse/air/releases/download/v1.61.4/air_1.61.4_windows_amd64.exe
   version: 1.61.4
 - architecture: amd64
+  changelog: https://github.com/Zxilly/go-size-analyzer/releases/tag/v1.11.0
+  file_name: go-size-analyzer_1.11.0_windows_amd64.zip
+  platform: windows
+  released_at: 2026-02-13T15:42:51Z
+  sha256_checksum: 646f175a3ef80b56a62eef2a588aeb325c218db82de5fbbe809e781a2274cda3
+  tags:
+    - latest
+  tool_ref: go_size_analyzer
+  url: https://github.com/Zxilly/go-size-analyzer/releases/download/v1.11.0/go-size-analyzer_1.11.0_windows_amd64.zip
+  version: 1.11.0
+- architecture: amd64
   changelog: https://github.com/Zxilly/go-size-analyzer/releases/tag/v1.10.2
   file_name: go-size-analyzer_1.10.2_windows_amd64.zip
   platform: windows
   released_at: 2025-12-10T16:11:08Z
   sha256_checksum: 31623eb4f9bd5fd11bfdeb5a11d44480ca600734087b1a2b5c8d13a6309183ef
-  tags:
-    - latest
   tool_ref: go_size_analyzer
   url: https://github.com/Zxilly/go-size-analyzer/releases/download/v1.10.2/go-size-analyzer_1.10.2_windows_amd64.zip
   version: 1.10.2
@@ -1198,13 +1232,40 @@
   url: https://github.com/Zxilly/go-size-analyzer/releases/download/v1.9.2/go-size-analyzer_1.9.2_windows_amd64.zip
   version: 1.9.2
 - architecture: amd64
+  changelog: https://github.com/golangci/golangci-lint/releases/tag/v2.10.1
+  file_name: golangci-lint-2.10.1-windows-amd64.zip
+  platform: windows
+  released_at: 2026-02-17T15:54:50Z
+  sha256_checksum: c60c87695e79db8e320f0e5be885059859de52bb5ee5f11be5577828570bc2a3
+  tags:
+    - latest
+  tool_ref: golangcilint
+  url: https://github.com/golangci/golangci-lint/releases/download/v2.10.1/golangci-lint-2.10.1-windows-amd64.zip
+  version: 2.10.1
+- architecture: amd64
+  changelog: https://github.com/golangci/golangci-lint/releases/tag/v2.10.0
+  file_name: golangci-lint-2.10.0-windows-amd64.zip
+  platform: windows
+  released_at: 2026-02-17T13:34:09Z
+  sha256_checksum: 1c19ddf07dfbdc8f06358779f40fc06272bc6ba8864893df4d951b7042959fc6
+  tool_ref: golangcilint
+  url: https://github.com/golangci/golangci-lint/releases/download/v2.10.0/golangci-lint-2.10.0-windows-amd64.zip
+  version: 2.10.0
+- architecture: amd64
+  changelog: https://github.com/golangci/golangci-lint/releases/tag/v2.9.0
+  file_name: golangci-lint-2.9.0-windows-amd64.zip
+  platform: windows
+  released_at: 2026-02-10T23:40:13Z
+  sha256_checksum: 130fca8fa959eb840267c5e231f030a948e0de1e768bf6a31785505d1061632c
+  tool_ref: golangcilint
+  url: https://github.com/golangci/golangci-lint/releases/download/v2.9.0/golangci-lint-2.9.0-windows-amd64.zip
+  version: 2.9.0
+- architecture: amd64
   changelog: https://github.com/golangci/golangci-lint/releases/tag/v2.8.0
   file_name: golangci-lint-2.8.0-windows-amd64.zip
   platform: windows
   released_at: 2026-01-07T21:56:21Z
   sha256_checksum: 22428168a9406f79853bf9a198b66e88ded9faa57cf85e5d225361f457f33513
-  tags:
-    - latest
   tool_ref: golangcilint
   url: https://github.com/golangci/golangci-lint/releases/download/v2.8.0/golangci-lint-2.8.0-windows-amd64.zip
   version: 2.8.0
@@ -1654,13 +1715,22 @@
   url: https://github.com/containers/gvisor-tap-vsock/releases/download/v0.7.0/gvproxy-windows.exe
   version: 0.7.0
 - architecture: amd64
+  changelog: https://github.com/gohugoio/hugo/releases/tag/v0.156.0
+  file_name: hugo_0.156.0_windows-amd64.zip
+  platform: windows
+  released_at: 2026-02-18T17:21:05Z
+  sha256_checksum: sha256:8ef3864bac1c6926e7c1b2f3688e2c07ed646c3b51cd8d2496874c3eee1670e7
+  tags:
+    - latest
+  tool_ref: hugo
+  url: https://github.com/gohugoio/hugo/releases/download/v0.156.0/hugo_0.156.0_windows-amd64.zip
+  version: 0.156.0
+- architecture: amd64
   changelog: https://github.com/gohugoio/hugo/releases/tag/v0.155.3
   file_name: hugo_0.155.3_windows-amd64.zip
   platform: windows
   released_at: 2026-02-08T17:06:13Z
   sha256_checksum: sha256:0cb3b395a506d6f5d7f934c11cd292f42f39c7a0fd7568fd366f0eef74539b40
-  tags:
-    - latest
   tool_ref: hugo
   url: https://github.com/gohugoio/hugo/releases/download/v0.155.3/hugo_0.155.3_windows-amd64.zip
   version: 0.155.3
@@ -1872,13 +1942,22 @@
   url: https://raw.pkg.keygen.sh/keygen/cli/2.9.1/keygen_windows_amd64
   version: 2.9.1
 - architecture: amd64
+  changelog: https://github.com/JetBrains/kotlin/releases/tag/v2.3.20-RC
+  file_name: kotlin-native-prebuilt-windows-x86_64-2.3.20-RC.zip
+  platform: windows
+  released_at: 2026-02-19T13:11:27Z
+  sha256_checksum: ""
+  tags:
+    - latest-prerelease
+  tool_ref: kotlin
+  url: https://github.com/JetBrains/kotlin/releases/download/v2.3.20-RC/kotlin-native-prebuilt-windows-x86_64-2.3.20-RC.zip
+  version: 2.3.20-RC
+- architecture: amd64
   changelog: https://github.com/JetBrains/kotlin/releases/tag/v2.3.20-Beta2
   file_name: kotlin-native-prebuilt-windows-x86_64-2.3.20-Beta2.zip
   platform: windows
   released_at: 2026-01-29T11:23:51Z
   sha256_checksum: ""
-  tags:
-    - latest-prerelease
   tool_ref: kotlin
   url: https://github.com/JetBrains/kotlin/releases/download/v2.3.20-Beta2/kotlin-native-prebuilt-windows-x86_64-2.3.20-Beta2.zip
   version: 2.3.20-Beta2
@@ -2364,13 +2443,22 @@
   url: https://github.com/localstack/localstack-cli/releases/download/v4.6.0/localstack-cli-4.6.0-windows-amd64-onefile.zip
   version: 4.6.0
 - architecture: amd64
+  changelog: https://github.com/vektra/mockery/releases/tag/v3.6.4
+  file_name: mockery_3.6.4_Windows_x86_64.tar.gz
+  platform: windows
+  released_at: 2026-02-13T15:23:28Z
+  sha256_checksum: 14e37253d03a6b239bbe4cbb96fe40e47ada0f7556d0e9dced6c545cf84abd97
+  tags:
+    - latest
+  tool_ref: mockery
+  url: https://github.com/vektra/mockery/releases/download/v3.6.4/mockery_3.6.4_Windows_x86_64.tar.gz
+  version: 3.6.4
+- architecture: amd64
   changelog: https://github.com/vektra/mockery/releases/tag/v3.6.3
   file_name: mockery_3.6.3_Windows_x86_64.tar.gz
   platform: windows
   released_at: 2026-01-16T22:42:33Z
   sha256_checksum: 7bc618ff2581fe6b37214e52ca781947788327c02cc494aeaa8ee6a6b43ff1b5
-  tags:
-    - latest
   tool_ref: mockery
   url: https://github.com/vektra/mockery/releases/download/v3.6.3/mockery_3.6.3_Windows_x86_64.tar.gz
   version: 3.6.3
@@ -2802,11 +2890,18 @@
   url: https://github.com/containerd/nerdctl/releases/download/v2.1.1/nerdctl-2.1.1-windows-amd64.tar.gz
   version: 2.1.1
 - architecture: amd64
-  file_name: node-v25.6.0-win-x64.zip
+  file_name: node-v25.6.1-win-x64.zip
   platform: windows
   sha256_checksum: ""
   tags:
     - latest
+  tool_ref: nodejs
+  url: https://nodejs.org/download/release/v25.6.1/node-v25.6.1-win-x64.zip
+  version: 25.6.1
+- architecture: amd64
+  file_name: node-v25.6.0-win-x64.zip
+  platform: windows
+  sha256_checksum: ""
   tool_ref: nodejs
   url: https://nodejs.org/download/release/v25.6.0/node-v25.6.0-win-x64.zip
   version: 25.6.0
@@ -4014,13 +4109,220 @@
   url: https://nodejs.org/download/release/v18.0.0/node-v18.0.0-win-x64.zip
   version: 18.0.0
 - architecture: amd64
+  changelog: https://github.com/anomalyco/opencode/releases/tag/v1.2.10
+  file_name: opencode-windows-x64-baseline.zip
+  platform: windows
+  released_at: 2026-02-20T11:18:54Z
+  sha256_checksum: ""
+  tags:
+    - latest
+  tool_ref: opencode
+  url: https://github.com/anomalyco/opencode/releases/download/v1.2.10/opencode-windows-x64-baseline.zip
+  version: 1.2.10
+- architecture: amd64
+  changelog: https://github.com/anomalyco/opencode/releases/tag/v1.2.9
+  file_name: opencode-windows-x64-baseline.zip
+  platform: windows
+  released_at: 2026-02-20T01:45:35Z
+  sha256_checksum: ""
+  tool_ref: opencode
+  url: https://github.com/anomalyco/opencode/releases/download/v1.2.9/opencode-windows-x64-baseline.zip
+  version: 1.2.9
+- architecture: amd64
+  changelog: https://github.com/anomalyco/opencode/releases/tag/v1.2.8
+  file_name: opencode-windows-x64-baseline.zip
+  platform: windows
+  released_at: 2026-02-19T22:38:57Z
+  sha256_checksum: ""
+  tool_ref: opencode
+  url: https://github.com/anomalyco/opencode/releases/download/v1.2.8/opencode-windows-x64-baseline.zip
+  version: 1.2.8
+- architecture: amd64
+  changelog: https://github.com/anomalyco/opencode/releases/tag/v1.2.7
+  file_name: opencode-windows-x64-baseline.zip
+  platform: windows
+  released_at: 2026-02-19T21:27:47Z
+  sha256_checksum: ""
+  tool_ref: opencode
+  url: https://github.com/anomalyco/opencode/releases/download/v1.2.7/opencode-windows-x64-baseline.zip
+  version: 1.2.7
+- architecture: amd64
+  changelog: https://github.com/anomalyco/opencode/releases/tag/v1.2.6
+  file_name: opencode-windows-x64-baseline.zip
+  platform: windows
+  released_at: 2026-02-16T19:57:23Z
+  sha256_checksum: ""
+  tool_ref: opencode
+  url: https://github.com/anomalyco/opencode/releases/download/v1.2.6/opencode-windows-x64-baseline.zip
+  version: 1.2.6
+- architecture: amd64
+  changelog: https://github.com/anomalyco/opencode/releases/tag/v1.2.5
+  file_name: opencode-windows-x64-baseline.zip
+  platform: windows
+  released_at: 2026-02-15T18:50:05Z
+  sha256_checksum: ""
+  tool_ref: opencode
+  url: https://github.com/anomalyco/opencode/releases/download/v1.2.5/opencode-windows-x64-baseline.zip
+  version: 1.2.5
+- architecture: amd64
+  changelog: https://github.com/anomalyco/opencode/releases/tag/v1.2.4
+  file_name: opencode-windows-x64-baseline.zip
+  platform: windows
+  released_at: 2026-02-15T01:55:46Z
+  sha256_checksum: ""
+  tool_ref: opencode
+  url: https://github.com/anomalyco/opencode/releases/download/v1.2.4/opencode-windows-x64-baseline.zip
+  version: 1.2.4
+- architecture: amd64
+  changelog: https://github.com/anomalyco/opencode/releases/tag/v1.2.3
+  file_name: opencode-windows-x64-baseline.zip
+  platform: windows
+  released_at: 2026-02-15T00:35:10Z
+  sha256_checksum: ""
+  tool_ref: opencode
+  url: https://github.com/anomalyco/opencode/releases/download/v1.2.3/opencode-windows-x64-baseline.zip
+  version: 1.2.3
+- architecture: amd64
+  changelog: https://github.com/anomalyco/opencode/releases/tag/v1.2.2
+  file_name: opencode-windows-x64-baseline.zip
+  platform: windows
+  released_at: 2026-02-14T19:09:11Z
+  sha256_checksum: ""
+  tool_ref: opencode
+  url: https://github.com/anomalyco/opencode/releases/download/v1.2.2/opencode-windows-x64-baseline.zip
+  version: 1.2.2
+- architecture: amd64
+  changelog: https://github.com/anomalyco/opencode/releases/tag/v1.2.1
+  file_name: opencode-windows-x64-baseline.zip
+  platform: windows
+  released_at: 2026-02-14T06:40:00Z
+  sha256_checksum: ""
+  tool_ref: opencode
+  url: https://github.com/anomalyco/opencode/releases/download/v1.2.1/opencode-windows-x64-baseline.zip
+  version: 1.2.1
+- architecture: amd64
+  changelog: https://github.com/anomalyco/opencode/releases/tag/v1.2.0
+  file_name: opencode-windows-x64-baseline.zip
+  platform: windows
+  released_at: 2026-02-14T05:20:24Z
+  sha256_checksum: ""
+  tool_ref: opencode
+  url: https://github.com/anomalyco/opencode/releases/download/v1.2.0/opencode-windows-x64-baseline.zip
+  version: 1.2.0
+- architecture: amd64
+  changelog: https://github.com/anomalyco/opencode/releases/tag/v1.1.65
+  file_name: opencode-windows-x64-baseline.zip
+  platform: windows
+  released_at: 2026-02-13T05:51:17Z
+  sha256_checksum: ""
+  tool_ref: opencode
+  url: https://github.com/anomalyco/opencode/releases/download/v1.1.65/opencode-windows-x64-baseline.zip
+  version: 1.1.65
+- architecture: amd64
+  changelog: https://github.com/anomalyco/opencode/releases/tag/v1.1.64
+  file_name: opencode-windows-x64-baseline.zip
+  platform: windows
+  released_at: 2026-02-12T23:18:54Z
+  sha256_checksum: ""
+  tool_ref: opencode
+  url: https://github.com/anomalyco/opencode/releases/download/v1.1.64/opencode-windows-x64-baseline.zip
+  version: 1.1.64
+- architecture: amd64
+  changelog: https://github.com/anomalyco/opencode/releases/tag/v1.1.63
+  file_name: opencode-windows-x64-baseline.zip
+  platform: windows
+  released_at: 2026-02-12T18:46:52Z
+  sha256_checksum: ""
+  tool_ref: opencode
+  url: https://github.com/anomalyco/opencode/releases/download/v1.1.63/opencode-windows-x64-baseline.zip
+  version: 1.1.63
+- architecture: amd64
+  changelog: https://github.com/anomalyco/opencode/releases/tag/v1.1.62
+  file_name: opencode-windows-x64-baseline.zip
+  platform: windows
+  released_at: 2026-02-12T18:15:38Z
+  sha256_checksum: ""
+  tool_ref: opencode
+  url: https://github.com/anomalyco/opencode/releases/download/v1.1.62/opencode-windows-x64-baseline.zip
+  version: 1.1.62
+- architecture: amd64
+  changelog: https://github.com/anomalyco/opencode/releases/tag/v1.1.61
+  file_name: opencode-windows-x64-baseline.zip
+  platform: windows
+  released_at: 2026-02-12T14:46:00Z
+  sha256_checksum: ""
+  tool_ref: opencode
+  url: https://github.com/anomalyco/opencode/releases/download/v1.1.61/opencode-windows-x64-baseline.zip
+  version: 1.1.61
+- architecture: amd64
+  changelog: https://github.com/anomalyco/opencode/releases/tag/v1.1.60
+  file_name: opencode-windows-x64-baseline.zip
+  platform: windows
+  released_at: 2026-02-12T05:58:37Z
+  sha256_checksum: ""
+  tool_ref: opencode
+  url: https://github.com/anomalyco/opencode/releases/download/v1.1.60/opencode-windows-x64-baseline.zip
+  version: 1.1.60
+- architecture: amd64
+  changelog: https://github.com/anomalyco/opencode/releases/tag/v1.1.59
+  file_name: opencode-windows-x64-baseline.zip
+  platform: windows
+  released_at: 2026-02-11T15:37:13Z
+  sha256_checksum: ""
+  tool_ref: opencode
+  url: https://github.com/anomalyco/opencode/releases/download/v1.1.59/opencode-windows-x64-baseline.zip
+  version: 1.1.59
+- architecture: amd64
+  changelog: https://github.com/anomalyco/opencode/releases/tag/v1.1.58
+  file_name: opencode-windows-x64-baseline.zip
+  platform: windows
+  released_at: 2026-02-11T15:12:36Z
+  sha256_checksum: ""
+  tool_ref: opencode
+  url: https://github.com/anomalyco/opencode/releases/download/v1.1.58/opencode-windows-x64-baseline.zip
+  version: 1.1.58
+- architecture: amd64
+  changelog: https://github.com/anomalyco/opencode/releases/tag/v1.1.57
+  file_name: opencode-windows-x64-baseline.zip
+  platform: windows
+  released_at: 2026-02-11T13:45:50Z
+  sha256_checksum: ""
+  tool_ref: opencode
+  url: https://github.com/anomalyco/opencode/releases/download/v1.1.57/opencode-windows-x64-baseline.zip
+  version: 1.1.57
+- architecture: amd64
+  changelog: https://github.com/anomalyco/opencode/releases/tag/v1.1.56
+  file_name: opencode-windows-x64-baseline.zip
+  platform: windows
+  released_at: 2026-02-10T22:12:41Z
+  sha256_checksum: ""
+  tool_ref: opencode
+  url: https://github.com/anomalyco/opencode/releases/download/v1.1.56/opencode-windows-x64-baseline.zip
+  version: 1.1.56
+- architecture: amd64
+  changelog: https://github.com/anomalyco/opencode/releases/tag/v1.1.55
+  file_name: opencode-windows-x64-baseline.zip
+  platform: windows
+  released_at: 2026-02-10T20:22:38Z
+  sha256_checksum: ""
+  tool_ref: opencode
+  url: https://github.com/anomalyco/opencode/releases/download/v1.1.55/opencode-windows-x64-baseline.zip
+  version: 1.1.55
+- architecture: amd64
+  changelog: https://github.com/anomalyco/opencode/releases/tag/v1.1.54
+  file_name: opencode-windows-x64-baseline.zip
+  platform: windows
+  released_at: 2026-02-10T19:04:17Z
+  sha256_checksum: ""
+  tool_ref: opencode
+  url: https://github.com/anomalyco/opencode/releases/download/v1.1.54/opencode-windows-x64-baseline.zip
+  version: 1.1.54
+- architecture: amd64
   changelog: https://github.com/anomalyco/opencode/releases/tag/v1.1.53
   file_name: opencode-windows-x64-baseline.zip
   platform: windows
   released_at: 2026-02-05T23:09:09Z
   sha256_checksum: ""
-  tags:
-    - latest
   tool_ref: opencode
   url: https://github.com/anomalyco/opencode/releases/download/v1.1.53/opencode-windows-x64-baseline.zip
   version: 1.1.53
@@ -5612,6 +5914,8 @@
   platform: windows
   released_at: 2025-09-30T06:35:16Z
   sha256_checksum: ""
+  tags:
+    - latest
   tool_ref: pipx
   url: https://github.com/pypa/pipx/releases/download/1.8.0/pipx.pyz
   version: 1.8.0
@@ -5634,13 +5938,31 @@
   url: https://github.com/pypa/pipx/releases/download/1.7.0/pipx.pyz
   version: 1.7.0
 - architecture: amd64
+  changelog: https://github.com/pnpm/pnpm/releases/tag/v11.0.0-alpha.5
+  file_name: pnpm-win-x64.exe
+  platform: windows
+  released_at: 2026-02-17T13:55:11Z
+  sha256_checksum: ""
+  tags:
+    - latest-prerelease
+  tool_ref: pnpm
+  url: https://github.com/pnpm/pnpm/releases/download/v11.0.0-alpha.5/pnpm-win-x64.exe
+  version: 11.0.0-alpha.5
+- architecture: amd64
+  changelog: https://github.com/pnpm/pnpm/releases/tag/v11.0.0-alpha.4
+  file_name: pnpm-win-x64.exe
+  platform: windows
+  released_at: 2026-02-17T12:09:21Z
+  sha256_checksum: ""
+  tool_ref: pnpm
+  url: https://github.com/pnpm/pnpm/releases/download/v11.0.0-alpha.4/pnpm-win-x64.exe
+  version: 11.0.0-alpha.4
+- architecture: amd64
   changelog: https://github.com/pnpm/pnpm/releases/tag/v11.0.0-alpha.3
   file_name: pnpm-win-x64.exe
   platform: windows
   released_at: 2026-01-13T15:23:13Z
   sha256_checksum: ""
-  tags:
-    - latest-prerelease
   tool_ref: pnpm
   url: https://github.com/pnpm/pnpm/releases/download/v11.0.0-alpha.3/pnpm-win-x64.exe
   version: 11.0.0-alpha.3
@@ -5654,13 +5976,40 @@
   url: https://github.com/pnpm/pnpm/releases/download/v11.0.0-alpha.2/pnpm-win-x64.exe
   version: 11.0.0-alpha.2
 - architecture: amd64
+  changelog: https://github.com/pnpm/pnpm/releases/tag/v10.30.1
+  file_name: pnpm-win-x64.exe
+  platform: windows
+  released_at: 2026-02-20T01:17:18Z
+  sha256_checksum: ""
+  tags:
+    - latest
+  tool_ref: pnpm
+  url: https://github.com/pnpm/pnpm/releases/download/v10.30.1/pnpm-win-x64.exe
+  version: 10.30.1
+- architecture: amd64
+  changelog: https://github.com/pnpm/pnpm/releases/tag/v10.30.0
+  file_name: pnpm-win-x64.exe
+  platform: windows
+  released_at: 2026-02-17T15:05:01Z
+  sha256_checksum: ""
+  tool_ref: pnpm
+  url: https://github.com/pnpm/pnpm/releases/download/v10.30.0/pnpm-win-x64.exe
+  version: 10.30.0
+- architecture: amd64
+  changelog: https://github.com/pnpm/pnpm/releases/tag/v10.29.3
+  file_name: pnpm-win-x64.exe
+  platform: windows
+  released_at: 2026-02-11T14:16:52Z
+  sha256_checksum: ""
+  tool_ref: pnpm
+  url: https://github.com/pnpm/pnpm/releases/download/v10.29.3/pnpm-win-x64.exe
+  version: 10.29.3
+- architecture: amd64
   changelog: https://github.com/pnpm/pnpm/releases/tag/v10.29.2
   file_name: pnpm-win-x64.exe
   platform: windows
   released_at: 2026-02-09T01:33:45Z
   sha256_checksum: ""
-  tags:
-    - latest
   tool_ref: pnpm
   url: https://github.com/pnpm/pnpm/releases/download/v10.29.2/pnpm-win-x64.exe
   version: 10.29.2
@@ -6223,6 +6572,28 @@
   url: https://github.com/pnpm/pnpm/releases/download/v9.15.5/pnpm-win-x64.exe
   version: 9.15.5
 - architecture: amd64
+  changelog: https://github.com/containers/podman/releases/tag/v5.8.0
+  file_name: podman-remote-release-windows_amd64.zip
+  platform: windows
+  released_at: 2026-02-12T18:58:43Z
+  sha256_checksum: sha256:5d88d730f9963c3cfabae4c8e688a025f59cd5ff045878506e3955b004eeb522
+  tags:
+    - latest
+  tool_ref: podman
+  url: https://github.com/containers/podman/releases/download/v5.8.0/podman-remote-release-windows_amd64.zip
+  version: 5.8.0
+- architecture: amd64
+  changelog: https://github.com/containers/podman/releases/tag/v5.8.0-rc1
+  file_name: podman-remote-release-windows_amd64.zip
+  platform: windows
+  released_at: 2026-02-10T20:34:44Z
+  sha256_checksum: sha256:c9e865e0d516976d3475ffb6b59880f7a555d5e1f6a695d2bc550bfe1abe48c5
+  tags:
+    - latest-prerelease
+  tool_ref: podman
+  url: https://github.com/containers/podman/releases/download/v5.8.0-rc1/podman-remote-release-windows_amd64.zip
+  version: 5.8.0-rc1
+- architecture: amd64
   changelog: https://github.com/containers/podman/releases/tag/v5.7.1
   file_name: podman-remote-release-windows_amd64.zip
   platform: windows
@@ -6441,13 +6812,22 @@
   url: https://github.com/boyter/scc/releases/download/v3.5.0/scc_Windows_x86_64.zip
   version: 3.5.0
 - architecture: amd64
+  changelog: https://github.com/stripe/stripe-cli/releases/tag/v1.35.1
+  file_name: stripe_1.35.1_windows_x86_64.zip
+  platform: windows
+  released_at: 2026-02-17T18:28:32Z
+  sha256_checksum: sha256:6e9582d605c8793889d73f43ca773b2f68794cd16b241e5cb0af274c4269c436
+  tags:
+    - latest
+  tool_ref: stripe_cli
+  url: https://github.com/stripe/stripe-cli/releases/download/v1.35.1/stripe_1.35.1_windows_x86_64.zip
+  version: 1.35.1
+- architecture: amd64
   changelog: https://github.com/stripe/stripe-cli/releases/tag/v1.35.0
   file_name: stripe_1.35.0_windows_x86_64.zip
   platform: windows
   released_at: 2026-01-28T22:37:23Z
   sha256_checksum: sha256:4671e1d6cd2752cfb51854fda09e0de04a0f45b0ba992e839a0dd723c02b1d58
-  tags:
-    - latest
   tool_ref: stripe_cli
   url: https://github.com/stripe/stripe-cli/releases/download/v1.35.0/stripe_1.35.0_windows_x86_64.zip
   version: 1.35.0
@@ -6542,13 +6922,85 @@
   url: https://github.com/stripe/stripe-cli/releases/download/v1.28.0/stripe_1.28.0_windows_x86_64.zip
   version: 1.28.0
 - architecture: amd64
+  changelog: https://github.com/supabase/cli/releases/tag/v2.76.12
+  file_name: supabase_windows_amd64.tar.gz
+  platform: windows
+  released_at: 2026-02-20T15:35:51Z
+  sha256_checksum: sha256:a5a21ffb5875781becab0542af32b398f219012052982c43be8a329ac50cf8cf
+  tags:
+    - latest
+  tool_ref: supabase_cli
+  url: https://github.com/supabase/cli/releases/download/v2.76.12/supabase_windows_amd64.tar.gz
+  version: 2.76.12
+- architecture: amd64
+  changelog: https://github.com/supabase/cli/releases/tag/v2.76.11
+  file_name: supabase_windows_amd64.tar.gz
+  platform: windows
+  released_at: 2026-02-19T12:49:49Z
+  sha256_checksum: sha256:43b4f3650e5c02d5c037a03a7a545fe8afe020526eac7a255383097de8844561
+  tool_ref: supabase_cli
+  url: https://github.com/supabase/cli/releases/download/v2.76.11/supabase_windows_amd64.tar.gz
+  version: 2.76.11
+- architecture: amd64
+  changelog: https://github.com/supabase/cli/releases/tag/v2.76.10
+  file_name: supabase_windows_amd64.tar.gz
+  platform: windows
+  released_at: 2026-02-18T14:03:50Z
+  sha256_checksum: sha256:ba68f3a5fa34d67bf6d0615728d30fe812a566587b06966ea318c47d50573ae2
+  tool_ref: supabase_cli
+  url: https://github.com/supabase/cli/releases/download/v2.76.10/supabase_windows_amd64.tar.gz
+  version: 2.76.10
+- architecture: amd64
+  changelog: https://github.com/supabase/cli/releases/tag/v2.76.9
+  file_name: supabase_windows_amd64.tar.gz
+  platform: windows
+  released_at: 2026-02-16T13:33:07Z
+  sha256_checksum: sha256:8480c677ab7242c296331e5dfa5ca7585bf98e0c5229cb356c78598cd6bd3305
+  tool_ref: supabase_cli
+  url: https://github.com/supabase/cli/releases/download/v2.76.9/supabase_windows_amd64.tar.gz
+  version: 2.76.9
+- architecture: amd64
+  changelog: https://github.com/supabase/cli/releases/tag/v2.76.8
+  file_name: supabase_windows_amd64.tar.gz
+  platform: windows
+  released_at: 2026-02-11T15:29:43Z
+  sha256_checksum: sha256:885754e2469397b55c9f13fce6e1f488dc94da8d16b2bc8bc53fe82f149c0e76
+  tool_ref: supabase_cli
+  url: https://github.com/supabase/cli/releases/download/v2.76.8/supabase_windows_amd64.tar.gz
+  version: 2.76.8
+- architecture: amd64
+  changelog: https://github.com/supabase/cli/releases/tag/v2.76.7
+  file_name: supabase_windows_amd64.tar.gz
+  platform: windows
+  released_at: 2026-02-10T09:31:06Z
+  sha256_checksum: sha256:c6c3fa383669edf806b756bcf19c0239bd3cf88c03ec38d5bfbe2823954e027a
+  tool_ref: supabase_cli
+  url: https://github.com/supabase/cli/releases/download/v2.76.7/supabase_windows_amd64.tar.gz
+  version: 2.76.7
+- architecture: amd64
+  changelog: https://github.com/supabase/cli/releases/tag/v2.76.6
+  file_name: supabase_windows_amd64.tar.gz
+  platform: windows
+  released_at: 2026-02-09T08:56:48Z
+  sha256_checksum: sha256:d1dd7b2e28bffb32e39b59c2c141b6ca27f9a899983e4fc40464d18893127954
+  tool_ref: supabase_cli
+  url: https://github.com/supabase/cli/releases/download/v2.76.6/supabase_windows_amd64.tar.gz
+  version: 2.76.6
+- architecture: amd64
+  changelog: https://github.com/supabase/cli/releases/tag/v2.76.5
+  file_name: supabase_windows_amd64.tar.gz
+  platform: windows
+  released_at: 2026-02-09T03:35:21Z
+  sha256_checksum: sha256:6afa8fcfb5bdbd8466f08ecd9f46d0c4a37c7bde0da36ca48571a9c6ee02c594
+  tool_ref: supabase_cli
+  url: https://github.com/supabase/cli/releases/download/v2.76.5/supabase_windows_amd64.tar.gz
+  version: 2.76.5
+- architecture: amd64
   changelog: https://github.com/supabase/cli/releases/tag/v2.76.4
   file_name: supabase_windows_amd64.tar.gz
   platform: windows
   released_at: 2026-02-08T12:17:24Z
   sha256_checksum: sha256:7742f2812addfddb6350e826ea9ec1f5b65dc8573d39388c4b38a3a2a65aa2f6
-  tags:
-    - latest
   tool_ref: supabase_cli
   url: https://github.com/supabase/cli/releases/download/v2.76.4/supabase_windows_amd64.tar.gz
   version: 2.76.4
@@ -8677,14 +9129,23 @@
   url: https://github.com/supabase/cli/releases/download/v2.31.4/supabase_windows_amd64.tar.gz
   version: 2.31.4
 - architecture: amd64
+  changelog: https://github.com/tailwindlabs/tailwindcss/releases/tag/v4.2.0
+  file_name: tailwindcss-windows-x64.exe
+  platform: windows
+  released_at: 2026-02-18T14:58:28Z
+  sha256_checksum: ""
+  tags:
+    - V4
+    - latest
+  tool_ref: tailwind_cli
+  url: https://github.com/tailwindlabs/tailwindcss/releases/download/v4.2.0/tailwindcss-windows-x64.exe
+  version: 4.2.0
+- architecture: amd64
   changelog: https://github.com/tailwindlabs/tailwindcss/releases/tag/v4.1.18
   file_name: tailwindcss-windows-x64.exe
   platform: windows
   released_at: 2025-12-11T16:31:46Z
   sha256_checksum: ""
-  tags:
-    - V4
-    - latest
   tool_ref: tailwind_cli
   url: https://github.com/tailwindlabs/tailwindcss/releases/download/v4.1.18/tailwindcss-windows-x64.exe
   version: 4.1.18
@@ -9082,13 +9543,40 @@
   url: https://github.com/aquasecurity/trivy/releases/download/v0.61.1/trivy_0.61.1_windows-64bit.zip
   version: 0.61.1
 - architecture: amd64
+  changelog: https://github.com/trufflesecurity/trufflehog/releases/tag/v3.93.4
+  file_name: trufflehog_3.93.4_windows_amd64.tar.gz
+  platform: windows
+  released_at: 2026-02-19T14:17:56Z
+  sha256_checksum: 2c08473d945dfee76c5c60659a15c82403b4fb44c06ad39eca60cacd065e9ae9
+  tags:
+    - latest
+  tool_ref: trufflehog
+  url: https://github.com/trufflesecurity/trufflehog/releases/download/v3.93.4/trufflehog_3.93.4_windows_amd64.tar.gz
+  version: 3.93.4
+- architecture: amd64
+  changelog: https://github.com/trufflesecurity/trufflehog/releases/tag/v3.93.3
+  file_name: trufflehog_3.93.3_windows_amd64.tar.gz
+  platform: windows
+  released_at: 2026-02-11T13:50:03Z
+  sha256_checksum: 53c72ff38a1028341c507e76fd476aac3da4a95b58135a93d945c92849e70ff5
+  tool_ref: trufflehog
+  url: https://github.com/trufflesecurity/trufflehog/releases/download/v3.93.3/trufflehog_3.93.3_windows_amd64.tar.gz
+  version: 3.93.3
+- architecture: amd64
+  changelog: https://github.com/trufflesecurity/trufflehog/releases/tag/v3.93.2
+  file_name: trufflehog_3.93.2_windows_amd64.tar.gz
+  platform: windows
+  released_at: 2026-02-10T23:37:51Z
+  sha256_checksum: 9eb6f055bc5e97cf5d94e45368d301f39cb087abdfb67274dab3b4ee2199d365
+  tool_ref: trufflehog
+  url: https://github.com/trufflesecurity/trufflehog/releases/download/v3.93.2/trufflehog_3.93.2_windows_amd64.tar.gz
+  version: 3.93.2
+- architecture: amd64
   changelog: https://github.com/trufflesecurity/trufflehog/releases/tag/v3.93.1
   file_name: trufflehog_3.93.1_windows_amd64.tar.gz
   platform: windows
   released_at: 2026-02-06T14:09:32Z
   sha256_checksum: 2add5bcfd2f9b9fd5db721f7d47921e02b3f093838d24551f7cf8d6d66bc023e
-  tags:
-    - latest
   tool_ref: trufflehog
   url: https://github.com/trufflesecurity/trufflehog/releases/download/v3.93.1/trufflehog_3.93.1_windows_amd64.tar.gz
   version: 3.93.1
@@ -9644,13 +10132,49 @@
   url: https://github.com/upx/upx/releases/download/v5.0.2/upx-5.0.2-win64.zip
   version: 5.0.2
 - architecture: amd64
+  changelog: https://github.com/astral-sh/uv/releases/tag/0.10.4
+  file_name: uv-x86_64-pc-windows-msvc.zip
+  platform: windows
+  released_at: 2026-02-17T22:04:18Z
+  sha256_checksum: sha256:0f0e22d7507633bfb38d9b42fb6a0341f1f74b8e80b070a31231c354812432a3
+  tags:
+    - latest
+  tool_ref: uv
+  url: https://github.com/astral-sh/uv/releases/download/0.10.4/uv-x86_64-pc-windows-msvc.zip
+  version: 0.10.4
+- architecture: amd64
+  changelog: https://github.com/astral-sh/uv/releases/tag/0.10.3
+  file_name: uv-x86_64-pc-windows-msvc.zip
+  platform: windows
+  released_at: 2026-02-16T11:28:55Z
+  sha256_checksum: sha256:d029201a3eebaa8a0001fa762ee44ca14a9cb3cae4d59fc3fd69857da03a6f8c
+  tool_ref: uv
+  url: https://github.com/astral-sh/uv/releases/download/0.10.3/uv-x86_64-pc-windows-msvc.zip
+  version: 0.10.3
+- architecture: amd64
+  changelog: https://github.com/astral-sh/uv/releases/tag/0.10.2
+  file_name: uv-x86_64-pc-windows-msvc.zip
+  platform: windows
+  released_at: 2026-02-10T19:20:40Z
+  sha256_checksum: sha256:493ebbe0e06128d6ee4905e1ed5e2a433fb0f7cfc08b0eaca9fab4ca76778ae1
+  tool_ref: uv
+  url: https://github.com/astral-sh/uv/releases/download/0.10.2/uv-x86_64-pc-windows-msvc.zip
+  version: 0.10.2
+- architecture: amd64
+  changelog: https://github.com/astral-sh/uv/releases/tag/0.10.1
+  file_name: uv-x86_64-pc-windows-msvc.zip
+  platform: windows
+  released_at: 2026-02-10T11:50:02Z
+  sha256_checksum: sha256:64c297ef1cd8e3a50966dee20cbe039564cd59e41186e0d1dd38fa4e627fc285
+  tool_ref: uv
+  url: https://github.com/astral-sh/uv/releases/download/0.10.1/uv-x86_64-pc-windows-msvc.zip
+  version: 0.10.1
+- architecture: amd64
   changelog: https://github.com/astral-sh/uv/releases/tag/0.10.0
   file_name: uv-x86_64-pc-windows-msvc.zip
   platform: windows
   released_at: 2026-02-05T21:01:07Z
   sha256_checksum: sha256:4037b444541f695cd2eb93188a9346de3e334af562381411deade0a31c7bf898
-  tags:
-    - latest
   tool_ref: uv
   url: https://github.com/astral-sh/uv/releases/download/0.10.0/uv-x86_64-pc-windows-msvc.zip
   version: 0.10.0
@@ -10528,12 +11052,28 @@
   url: https://github.com/astral-sh/uv/releases/download/0.5.31/uv-x86_64-pc-windows-msvc.zip
   version: 0.5.31
 - architecture: amd64
-  changelog: https://github.com/wailsapp/wails/releases/tag/v3.0.0-alpha.70
+  changelog: https://github.com/wailsapp/wails/releases/tag/v3.0.0-alpha.72
   file_name: ""
   platform: windows
   sha256_checksum: ""
   tags:
     - latest-prerelease
+  tool_ref: wails
+  url: ""
+  version: 3.0.0-alpha.72
+- architecture: amd64
+  changelog: https://github.com/wailsapp/wails/releases/tag/v3.0.0-alpha.71
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
+  tool_ref: wails
+  url: ""
+  version: 3.0.0-alpha.71
+- architecture: amd64
+  changelog: https://github.com/wailsapp/wails/releases/tag/v3.0.0-alpha.70
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
   tool_ref: wails
   url: ""
   version: 3.0.0-alpha.70
