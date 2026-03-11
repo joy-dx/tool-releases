@@ -1,11 +1,726 @@
 - architecture: arm64
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
+  tags:
+    - latest
+  tool_ref: ansible
+  url: ""
+  version: 13.4.0
+- architecture: arm64
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 13.3.0
+- architecture: arm64
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 13.2.0
+- architecture: arm64
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 13.1.0
+- architecture: arm64
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 13.0.0
+- architecture: arm64
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 12.3.0
+- architecture: arm64
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 12.2.0
+- architecture: arm64
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 12.1.0
+- architecture: arm64
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 12.0.0
+- architecture: arm64
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 11.13.0
+- architecture: arm64
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 11.12.0
+- architecture: arm64
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 11.11.0
+- architecture: arm64
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 11.10.0
+- architecture: arm64
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 11.9.0
+- architecture: arm64
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 11.8.0
+- architecture: arm64
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 11.7.0
+- architecture: arm64
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 11.6.0
+- architecture: arm64
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 11.5.0
+- architecture: arm64
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 11.4.0
+- architecture: arm64
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 11.3.0
+- architecture: arm64
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 11.2.0
+- architecture: arm64
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 11.1.0
+- architecture: arm64
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 11.0.0
+- architecture: arm64
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 10.7.0
+- architecture: arm64
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 10.6.0
+- architecture: arm64
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 10.5.0
+- architecture: arm64
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 10.4.0
+- architecture: arm64
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 10.3.0
+- architecture: arm64
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 10.2.0
+- architecture: arm64
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 10.1.0
+- architecture: arm64
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 10.0.1
+- architecture: arm64
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 9.13.0
+- architecture: arm64
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 9.12.0
+- architecture: arm64
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 9.11.0
+- architecture: arm64
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 9.10.0
+- architecture: arm64
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 9.9.0
+- architecture: arm64
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 9.8.0
+- architecture: arm64
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 9.7.0
+- architecture: arm64
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 9.6.1
+- architecture: arm64
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 9.5.1
+- architecture: arm64
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 9.4.0
+- architecture: arm64
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 9.3.0
+- architecture: arm64
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 9.2.0
+- architecture: arm64
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 9.1.0
+- architecture: arm64
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 9.0.1
+- architecture: arm64
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 8.7.0
+- architecture: arm64
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 8.6.1
+- architecture: arm64
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 8.6.0
+- architecture: arm64
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 8.5.0
+- architecture: arm64
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 8.4.0
+- architecture: arm64
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 8.3.0
+- architecture: arm64
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 8.2.0
+- architecture: arm64
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 8.1.0
+- architecture: arm64
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 8.0.0
+- architecture: arm64
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 7.7.0
+- architecture: arm64
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 7.6.0
+- architecture: arm64
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 7.5.0
+- architecture: arm64
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 7.4.0
+- architecture: arm64
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 7.3.0
+- architecture: arm64
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 7.2.0
+- architecture: arm64
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 7.1.0
+- architecture: arm64
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 7.0.0
+- architecture: arm64
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 6.7.0
+- architecture: arm64
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 6.6.0
+- architecture: arm64
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 6.5.0
+- architecture: arm64
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 6.4.0
+- architecture: arm64
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 6.3.0
+- architecture: arm64
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 6.2.0
+- architecture: arm64
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 6.1.0
+- architecture: arm64
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 6.0.0
+- architecture: arm64
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 5.10.0
+- architecture: arm64
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 5.9.0
+- architecture: arm64
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 5.8.0
+- architecture: arm64
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 5.7.1
+- architecture: arm64
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 5.7.0
+- architecture: arm64
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 5.6.0
+- architecture: arm64
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 5.5.0
+- architecture: arm64
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 5.4.0
+- architecture: arm64
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 5.3.0
+- architecture: arm64
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 5.2.0
+- architecture: arm64
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 5.1.0
+- architecture: arm64
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 5.0.1
+- architecture: arm64
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 4.10.0
+- architecture: arm64
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 4.9.0
+- architecture: arm64
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 4.8.0
+- architecture: arm64
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 4.7.0
+- architecture: arm64
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 4.6.0
+- architecture: arm64
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 4.5.0
+- architecture: arm64
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 4.4.0
+- architecture: arm64
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 4.3.0
+- architecture: arm64
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 4.2.0
+- architecture: arm64
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 4.1.0
+- architecture: arm64
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 4.0.0
+- architecture: arm64
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 3.4.0
+- architecture: arm64
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 3.3.0
+- architecture: arm64
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 3.2.0
+- architecture: arm64
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 3.1.0
+- architecture: arm64
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 3.0.0
+- architecture: arm64
+  changelog: https://github.com/schollz/croc/releases/tag/v10.4.2
+  file_name: croc_v10.4.2_Windows-ARM64.zip
+  platform: windows
+  released_at: 2026-03-11T02:13:41Z
+  sha256_checksum: 3d8b3d4dd137a7dce8e4ee39baae1843d1ccff3c036421891536a1d90b945d40
+  tags:
+    - latest
+  tool_ref: croc
+  url: https://github.com/schollz/croc/releases/download/v10.4.2/croc_v10.4.2_Windows-ARM64.zip
+  version: 10.4.2
+- architecture: arm64
+  changelog: https://github.com/schollz/croc/releases/tag/v10.4.1
+  file_name: croc_v10.4.1_Windows-ARM64.zip
+  platform: windows
+  released_at: 2026-03-06T19:11:06Z
+  sha256_checksum: 47f68f130218a9ccbf4fa5f40834500a6ab4fb753d1ce78b552e064f21d740f2
+  tool_ref: croc
+  url: https://github.com/schollz/croc/releases/download/v10.4.1/croc_v10.4.1_Windows-ARM64.zip
+  version: 10.4.1
+- architecture: arm64
+  changelog: https://github.com/schollz/croc/releases/tag/v10.4.0
+  file_name: croc_v10.4.0_Windows-ARM64.zip
+  platform: windows
+  released_at: 2026-03-06T15:46:00Z
+  sha256_checksum: 24bbe78da845b566c71f25b1bdaea3fb0639a64c90c8b6e080b39eed7ede0bd5
+  tool_ref: croc
+  url: https://github.com/schollz/croc/releases/download/v10.4.0/croc_v10.4.0_Windows-ARM64.zip
+  version: 10.4.0
+- architecture: arm64
   changelog: https://github.com/schollz/croc/releases/tag/v10.3.1
   file_name: croc_v10.3.1_Windows-ARM64.zip
   platform: windows
   released_at: 2025-11-20T15:26:41Z
   sha256_checksum: cc1d065a0c84947c4950718e4d4898d4b8102cf798d6f669d007c6ca06038833
-  tags:
-    - latest
   tool_ref: croc
   url: https://github.com/schollz/croc/releases/download/v10.3.1/croc_v10.3.1_Windows-ARM64.zip
   version: 10.3.1
@@ -118,13 +833,22 @@
   url: ""
   version: 4.10.0
 - architecture: arm64
+  changelog: https://github.com/go-delve/delve/releases/tag/v1.26.1
+  file_name: ""
+  platform: windows
+  released_at: 2026-03-03T22:10:06Z
+  sha256_checksum: ""
+  tags:
+    - latest
+  tool_ref: delve
+  url: ""
+  version: 1.26.1
+- architecture: arm64
   changelog: https://github.com/go-delve/delve/releases/tag/v1.26.0
   file_name: ""
   platform: windows
   released_at: 2025-12-19T19:49:38Z
   sha256_checksum: ""
-  tags:
-    - latest
   tool_ref: delve
   url: ""
   version: 1.26.0
@@ -147,13 +871,58 @@
   url: ""
   version: 1.25.1
 - architecture: arm64
+  changelog: https://github.com/denoland/deno/releases/tag/v2.7.4
+  file_name: deno-aarch64-pc-windows-msvc.zip
+  platform: windows
+  released_at: 2026-03-05T14:21:56Z
+  sha256_checksum: sha256:53ab02479e73dc79432a1e5198bb0147021abed71cad3ae2e3466d8282e0e3db
+  tags:
+    - latest
+  tool_ref: deno
+  url: https://github.com/denoland/deno/releases/download/v2.7.4/deno-aarch64-pc-windows-msvc.zip
+  version: 2.7.4
+- architecture: arm64
+  changelog: https://github.com/denoland/deno/releases/tag/v2.7.3
+  file_name: deno-aarch64-pc-windows-msvc.zip
+  platform: windows
+  released_at: 2026-03-04T16:21:25Z
+  sha256_checksum: sha256:439180e236fab8f975f7ec83754cec690d52ca7301ecb81a4b070889202ce7b8
+  tool_ref: deno
+  url: https://github.com/denoland/deno/releases/download/v2.7.3/deno-aarch64-pc-windows-msvc.zip
+  version: 2.7.3
+- architecture: arm64
+  changelog: https://github.com/denoland/deno/releases/tag/v2.7.2
+  file_name: deno-aarch64-pc-windows-msvc.zip
+  platform: windows
+  released_at: 2026-03-03T16:06:30Z
+  sha256_checksum: sha256:10f74f25f618ee3b0194681789aa8efdec9227e5e14a51201897bd288edf3971
+  tool_ref: deno
+  url: https://github.com/denoland/deno/releases/download/v2.7.2/deno-aarch64-pc-windows-msvc.zip
+  version: 2.7.2
+- architecture: arm64
+  changelog: https://github.com/denoland/deno/releases/tag/v2.7.1
+  file_name: deno-aarch64-pc-windows-msvc.zip
+  platform: windows
+  released_at: 2026-02-25T17:04:23Z
+  sha256_checksum: sha256:c6547d01d1ef2aa17ad2e911cc62a06adb27a08be3b7c24ceeae9c9d024fe1cc
+  tool_ref: deno
+  url: https://github.com/denoland/deno/releases/download/v2.7.1/deno-aarch64-pc-windows-msvc.zip
+  version: 2.7.1
+- architecture: arm64
+  changelog: https://github.com/denoland/deno/releases/tag/v2.7.0
+  file_name: deno-aarch64-pc-windows-msvc.zip
+  platform: windows
+  released_at: 2026-02-25T10:39:21Z
+  sha256_checksum: sha256:fa92eefed87636ab13fbe2d16aa59a558e369bd321b843a3dc37ac74bfd9a71b
+  tool_ref: deno
+  url: https://github.com/denoland/deno/releases/download/v2.7.0/deno-aarch64-pc-windows-msvc.zip
+  version: 2.7.0
+- architecture: arm64
   changelog: https://github.com/denoland/deno/releases/tag/v2.6.10
   file_name: deno-aarch64-pc-windows-msvc.zip
   platform: windows
   released_at: 2026-02-17T16:05:18Z
   sha256_checksum: sha256:8af2f9445ca3c83d7e26b09515e7ec64323a869040b313428ed9b1b165cdcc24
-  tags:
-    - latest
   tool_ref: deno
   url: https://github.com/denoland/deno/releases/download/v2.6.10/deno-aarch64-pc-windows-msvc.zip
   version: 2.6.10
@@ -205,11 +974,18 @@
   url: https://github.com/docker/docker-credential-helpers/releases/download/v0.9.3/docker-credential-wincred-v0.9.3.windows-arm64.exe
   version: 0.9.3
 - architecture: arm64
+  file_name: go1.26.1.windows-arm64.zip
+  platform: windows
+  sha256_checksum: c17e09676be0faad3cbed1c81bb02f38fb73e2f93d048571cc13730fe23f2d5b
+  tags:
+    - latest
+  tool_ref: go
+  url: https://go.dev/dl/go1.26.1.windows-arm64.zip
+  version: 1.26.1
+- architecture: arm64
   file_name: go1.26.0.windows-arm64.zip
   platform: windows
   sha256_checksum: 73bdbb9f64aa152758024485c5243a1098182bb741fcc603b6fb664ee5e0fe35
-  tags:
-    - latest
   tool_ref: go
   url: https://go.dev/dl/go1.26.0.windows-arm64.zip
   version: 1.26.0
@@ -1066,13 +1842,49 @@
   url: https://github.com/Zxilly/go-size-analyzer/releases/download/v1.9.2/go-size-analyzer_1.9.2_windows_arm64.zip
   version: 1.9.2
 - architecture: arm64
+  changelog: https://github.com/golangci/golangci-lint/releases/tag/v2.11.3
+  file_name: golangci-lint-2.11.3-windows-arm64.zip
+  platform: windows
+  released_at: 2026-03-10T10:52:02Z
+  sha256_checksum: 0b7c9a10e4481aa14383403892e1c58502078989866dfcb34ce0b68fb00d1176
+  tags:
+    - latest
+  tool_ref: golangcilint
+  url: https://github.com/golangci/golangci-lint/releases/download/v2.11.3/golangci-lint-2.11.3-windows-arm64.zip
+  version: 2.11.3
+- architecture: arm64
+  changelog: https://github.com/golangci/golangci-lint/releases/tag/v2.11.2
+  file_name: golangci-lint-2.11.2-windows-arm64.zip
+  platform: windows
+  released_at: 2026-03-07T21:54:09Z
+  sha256_checksum: 97ac00f7dc3335cc6f41057ff7b161d18a420f04b97e29cd047d840b5d179ba7
+  tool_ref: golangcilint
+  url: https://github.com/golangci/golangci-lint/releases/download/v2.11.2/golangci-lint-2.11.2-windows-arm64.zip
+  version: 2.11.2
+- architecture: arm64
+  changelog: https://github.com/golangci/golangci-lint/releases/tag/v2.11.1
+  file_name: golangci-lint-2.11.1-windows-arm64.zip
+  platform: windows
+  released_at: 2026-03-06T14:30:47Z
+  sha256_checksum: 44093e6110bef89bfc97639f945ba3e56756cc4086c176e593a0306ed73e123b
+  tool_ref: golangcilint
+  url: https://github.com/golangci/golangci-lint/releases/download/v2.11.1/golangci-lint-2.11.1-windows-arm64.zip
+  version: 2.11.1
+- architecture: arm64
+  changelog: https://github.com/golangci/golangci-lint/releases/tag/v2.11.0
+  file_name: golangci-lint-2.11.0-windows-arm64.zip
+  platform: windows
+  released_at: 2026-03-06T13:43:43Z
+  sha256_checksum: 3b39ca72ca6d1f3cb2ecf46a96968967b5f20f0b377fe38b99d37b679932087d
+  tool_ref: golangcilint
+  url: https://github.com/golangci/golangci-lint/releases/download/v2.11.0/golangci-lint-2.11.0-windows-arm64.zip
+  version: 2.11.0
+- architecture: arm64
   changelog: https://github.com/golangci/golangci-lint/releases/tag/v2.10.1
   file_name: golangci-lint-2.10.1-windows-arm64.zip
   platform: windows
   released_at: 2026-02-17T15:54:50Z
   sha256_checksum: 636ab790c8dcea8034aa34aba6031ca3893d68f7eda000460ab534341fadbab1
-  tags:
-    - latest
   tool_ref: golangcilint
   url: https://github.com/golangci/golangci-lint/releases/download/v2.10.1/golangci-lint-2.10.1-windows-arm64.zip
   version: 2.10.1
@@ -1374,13 +2186,49 @@
   url: https://github.com/golangci/golangci-lint/releases/download/v1.64.2/golangci-lint-1.64.2-windows-arm64.zip
   version: 1.64.2
 - architecture: arm64
+  changelog: https://github.com/goreleaser/goreleaser/releases/tag/v2.14.3
+  file_name: goreleaser_Windows_arm64.zip
+  platform: windows
+  released_at: 2026-03-09T15:44:18Z
+  sha256_checksum: 09c21cf3b2c9587fd4f8877163a928c1beb9790e2ab4ce174b18b5fbeaa6c653
+  tags:
+    - latest
+  tool_ref: goreleaser
+  url: https://github.com/goreleaser/goreleaser/releases/download/v2.14.3/goreleaser_Windows_arm64.zip
+  version: 2.14.3
+- architecture: arm64
+  changelog: https://github.com/goreleaser/goreleaser/releases/tag/v2.14.2
+  file_name: goreleaser_Windows_arm64.zip
+  platform: windows
+  released_at: 2026-03-08T03:31:07Z
+  sha256_checksum: f59b758c8f0f530d9bb757887c2af23d709e659220097f5a4a104c4e4831fc34
+  tool_ref: goreleaser
+  url: https://github.com/goreleaser/goreleaser/releases/download/v2.14.2/goreleaser_Windows_arm64.zip
+  version: 2.14.2
+- architecture: arm64
+  changelog: https://github.com/goreleaser/goreleaser/releases/tag/v2.14.1
+  file_name: goreleaser_Windows_arm64.zip
+  platform: windows
+  released_at: 2026-02-25T17:00:26Z
+  sha256_checksum: 7dfcef290f25fec3d09f8a89a8cf4047c0d89889487dab55c5ddecece7ffdcb8
+  tool_ref: goreleaser
+  url: https://github.com/goreleaser/goreleaser/releases/download/v2.14.1/goreleaser_Windows_arm64.zip
+  version: 2.14.1
+- architecture: arm64
+  changelog: https://github.com/goreleaser/goreleaser/releases/tag/v2.14.0
+  file_name: goreleaser_Windows_arm64.zip
+  platform: windows
+  released_at: 2026-02-21T20:19:24Z
+  sha256_checksum: 6bd45bd9b1964921d6f996952c5eb9a00efeabde42c3be5dd601328232d10e0c
+  tool_ref: goreleaser
+  url: https://github.com/goreleaser/goreleaser/releases/download/v2.14.0/goreleaser_Windows_arm64.zip
+  version: 2.14.0
+- architecture: arm64
   changelog: https://github.com/goreleaser/goreleaser/releases/tag/v2.13.3
   file_name: goreleaser_Windows_arm64.zip
   platform: windows
   released_at: 2026-01-10T04:21:27Z
   sha256_checksum: 72416a357432d3cf256ada8d0d0206cb8b734fd827bbf687d6506aafca929189
-  tags:
-    - latest
   tool_ref: goreleaser
   url: https://github.com/goreleaser/goreleaser/releases/download/v2.13.3/goreleaser_Windows_arm64.zip
   version: 2.13.3
@@ -1513,13 +2361,22 @@
   url: https://github.com/containers/gvisor-tap-vsock/releases/download/v0.7.4/gvproxy-windows-arm64.exe
   version: 0.7.4
 - architecture: arm64
+  changelog: https://github.com/gohugoio/hugo/releases/tag/v0.157.0
+  file_name: hugo_0.157.0_windows-arm64.zip
+  platform: windows
+  released_at: 2026-02-25T17:00:45Z
+  sha256_checksum: sha256:7f9a0a5736934f552f59c764827072e5a25808d67c60a6c9e9817598dee1aa8f
+  tags:
+    - latest
+  tool_ref: hugo
+  url: https://github.com/gohugoio/hugo/releases/download/v0.157.0/hugo_0.157.0_windows-arm64.zip
+  version: 0.157.0
+- architecture: arm64
   changelog: https://github.com/gohugoio/hugo/releases/tag/v0.156.0
   file_name: hugo_0.156.0_windows-arm64.zip
   platform: windows
   released_at: 2026-02-18T17:21:05Z
   sha256_checksum: sha256:89ce6a8e88f3332568d7e7233b6f9ac3b428986f217627895eb74aff3e7b5595
-  tags:
-    - latest
   tool_ref: hugo
   url: https://github.com/gohugoio/hugo/releases/download/v0.156.0/hugo_0.156.0_windows-arm64.zip
   version: 0.156.0
@@ -1740,13 +2597,22 @@
   url: https://raw.pkg.keygen.sh/keygen/cli/2.9.1/keygen_windows_arm64
   version: 2.9.1
 - architecture: arm64
+  changelog: https://github.com/vektra/mockery/releases/tag/v3.7.0
+  file_name: mockery_3.7.0_Windows_arm64.tar.gz
+  platform: windows
+  released_at: 2026-03-06T17:11:45Z
+  sha256_checksum: e5aa67577fd00472a32abb2892738c601798ff50a08baf9d85a66554cc0e2955
+  tags:
+    - latest
+  tool_ref: mockery
+  url: https://github.com/vektra/mockery/releases/download/v3.7.0/mockery_3.7.0_Windows_arm64.tar.gz
+  version: 3.7.0
+- architecture: arm64
   changelog: https://github.com/vektra/mockery/releases/tag/v3.6.4
   file_name: mockery_3.6.4_Windows_arm64.tar.gz
   platform: windows
   released_at: 2026-02-13T15:23:28Z
   sha256_checksum: f41cb3e9a2da179d056e04ba44ecb2a2db3eedfdcc6519c18e60883ae7190a58
-  tags:
-    - latest
   tool_ref: mockery
   url: https://github.com/vektra/mockery/releases/download/v3.6.4/mockery_3.6.4_Windows_arm64.tar.gz
   version: 3.6.4
@@ -2113,11 +2979,25 @@
   url: https://github.com/vektra/mockery/releases/download/v2.53.2/mockery_2.53.2_Windows_arm64.tar.gz
   version: 2.53.2
 - architecture: arm64
-  file_name: node-v25.6.1-win-arm64.zip
+  file_name: node-v25.8.0-win-arm64.zip
   platform: windows
   sha256_checksum: ""
   tags:
     - latest
+  tool_ref: nodejs
+  url: https://nodejs.org/download/release/v25.8.0/node-v25.8.0-win-arm64.zip
+  version: 25.8.0
+- architecture: arm64
+  file_name: node-v25.7.0-win-arm64.zip
+  platform: windows
+  sha256_checksum: ""
+  tool_ref: nodejs
+  url: https://nodejs.org/download/release/v25.7.0/node-v25.7.0-win-arm64.zip
+  version: 25.7.0
+- architecture: arm64
+  file_name: node-v25.6.1-win-arm64.zip
+  platform: windows
+  sha256_checksum: ""
   tool_ref: nodejs
   url: https://nodejs.org/download/release/v25.6.1/node-v25.6.1-win-arm64.zip
   version: 25.6.1
@@ -3009,13 +3889,58 @@
   url: https://github.com/pypa/pipx/releases/download/1.7.0/pipx.pyz
   version: 1.7.0
 - architecture: arm64
+  changelog: https://github.com/pnpm/pnpm/releases/tag/v11.0.0-alpha.14
+  file_name: pnpm-win-arm64.zip
+  platform: windows
+  released_at: 2026-03-11T00:16:34Z
+  sha256_checksum: ""
+  tags:
+    - latest-prerelease
+  tool_ref: pnpm
+  url: https://github.com/pnpm/pnpm/releases/download/v11.0.0-alpha.14/pnpm-win-arm64.zip
+  version: 11.0.0-alpha.14
+- architecture: arm64
+  changelog: https://github.com/pnpm/pnpm/releases/tag/v11.0.0-alpha.13
+  file_name: pnpm-win-arm64.zip
+  platform: windows
+  released_at: 2026-03-07T13:32:58Z
+  sha256_checksum: ""
+  tool_ref: pnpm
+  url: https://github.com/pnpm/pnpm/releases/download/v11.0.0-alpha.13/pnpm-win-arm64.zip
+  version: 11.0.0-alpha.13
+- architecture: arm64
+  changelog: https://github.com/pnpm/pnpm/releases/tag/v11.0.0-alpha.12
+  file_name: pnpm-win-arm64.zip
+  platform: windows
+  released_at: 2026-03-01T19:04:09Z
+  sha256_checksum: ""
+  tool_ref: pnpm
+  url: https://github.com/pnpm/pnpm/releases/download/v11.0.0-alpha.12/pnpm-win-arm64.zip
+  version: 11.0.0-alpha.12
+- architecture: arm64
+  changelog: https://github.com/pnpm/pnpm/releases/tag/v11.0.0-alpha.11
+  file_name: pnpm-win-arm64.zip
+  platform: windows
+  released_at: 2026-02-24T09:56:10Z
+  sha256_checksum: ""
+  tool_ref: pnpm
+  url: https://github.com/pnpm/pnpm/releases/download/v11.0.0-alpha.11/pnpm-win-arm64.zip
+  version: 11.0.0-alpha.11
+- architecture: arm64
+  changelog: https://github.com/pnpm/pnpm/releases/tag/v11.0.0-alpha.10
+  file_name: pnpm-win-arm64.zip
+  platform: windows
+  released_at: 2026-02-23T15:30:51Z
+  sha256_checksum: ""
+  tool_ref: pnpm
+  url: https://github.com/pnpm/pnpm/releases/download/v11.0.0-alpha.10/pnpm-win-arm64.zip
+  version: 11.0.0-alpha.10
+- architecture: arm64
   changelog: https://github.com/pnpm/pnpm/releases/tag/v11.0.0-alpha.5
   file_name: pnpm-win-arm64.exe
   platform: windows
   released_at: 2026-02-17T13:55:11Z
   sha256_checksum: ""
-  tags:
-    - latest-prerelease
   tool_ref: pnpm
   url: https://github.com/pnpm/pnpm/releases/download/v11.0.0-alpha.5/pnpm-win-arm64.exe
   version: 11.0.0-alpha.5
@@ -3047,13 +3972,58 @@
   url: https://github.com/pnpm/pnpm/releases/download/v11.0.0-alpha.2/pnpm-win-arm64.exe
   version: 11.0.0-alpha.2
 - architecture: arm64
+  changelog: https://github.com/pnpm/pnpm/releases/tag/v10.32.1
+  file_name: pnpm-win-arm64.exe
+  platform: windows
+  released_at: 2026-03-11T01:38:49Z
+  sha256_checksum: ""
+  tags:
+    - latest
+  tool_ref: pnpm
+  url: https://github.com/pnpm/pnpm/releases/download/v10.32.1/pnpm-win-arm64.exe
+  version: 10.32.1
+- architecture: arm64
+  changelog: https://github.com/pnpm/pnpm/releases/tag/v10.32.0
+  file_name: pnpm-win-arm64.exe
+  platform: windows
+  released_at: 2026-03-09T21:51:33Z
+  sha256_checksum: ""
+  tool_ref: pnpm
+  url: https://github.com/pnpm/pnpm/releases/download/v10.32.0/pnpm-win-arm64.exe
+  version: 10.32.0
+- architecture: arm64
+  changelog: https://github.com/pnpm/pnpm/releases/tag/v10.31.0
+  file_name: pnpm-win-arm64.exe
+  platform: windows
+  released_at: 2026-03-07T23:44:24Z
+  sha256_checksum: ""
+  tool_ref: pnpm
+  url: https://github.com/pnpm/pnpm/releases/download/v10.31.0/pnpm-win-arm64.exe
+  version: 10.31.0
+- architecture: arm64
+  changelog: https://github.com/pnpm/pnpm/releases/tag/v10.30.3
+  file_name: pnpm-win-arm64.exe
+  platform: windows
+  released_at: 2026-02-26T09:53:20Z
+  sha256_checksum: ""
+  tool_ref: pnpm
+  url: https://github.com/pnpm/pnpm/releases/download/v10.30.3/pnpm-win-arm64.exe
+  version: 10.30.3
+- architecture: arm64
+  changelog: https://github.com/pnpm/pnpm/releases/tag/v10.30.2
+  file_name: pnpm-win-arm64.exe
+  platform: windows
+  released_at: 2026-02-23T23:56:43Z
+  sha256_checksum: ""
+  tool_ref: pnpm
+  url: https://github.com/pnpm/pnpm/releases/download/v10.30.2/pnpm-win-arm64.exe
+  version: 10.30.2
+- architecture: arm64
   changelog: https://github.com/pnpm/pnpm/releases/tag/v10.30.1
   file_name: pnpm-win-arm64.exe
   platform: windows
   released_at: 2026-02-20T01:17:18Z
   sha256_checksum: ""
-  tags:
-    - latest
   tool_ref: pnpm
   url: https://github.com/pnpm/pnpm/releases/download/v10.30.1/pnpm-win-arm64.exe
   version: 10.30.1
@@ -3773,13 +4743,66 @@
   url: https://github.com/containers/podman/releases/download/v5.5.0/podman-remote-release-windows_arm64.zip
   version: 5.5.0
 - architecture: arm64
+  changelog: https://github.com/astral-sh/python-build-standalone/releases/tag/20260310
+  file_name: cpython-3.14.3+20260310-aarch64-pc-windows-msvc-pgo-full.tar.zst
+  platform: windows
+  released_at: 2026-03-10T00:00:00Z
+  sha256_checksum: ""
+  tags:
+    - "2026-03-10T00:00:00Z"
+  tool_ref: python
+  url: https://github.com/astral-sh/python-build-standalone/releases/download/20260310/cpython-3.14.3%2B20260310-aarch64-pc-windows-msvc-pgo-full.tar.zst
+  version: 3.14.3
+- architecture: arm64
+  changelog: https://github.com/astral-sh/python-build-standalone/releases/tag/20260310
+  file_name: cpython-3.13.12+20260310-aarch64-pc-windows-msvc-pgo-full.tar.zst
+  platform: windows
+  released_at: 2026-03-10T00:00:00Z
+  sha256_checksum: ""
+  tags:
+    - "2026-03-10T00:00:00Z"
+  tool_ref: python
+  url: https://github.com/astral-sh/python-build-standalone/releases/download/20260310/cpython-3.13.12%2B20260310-aarch64-pc-windows-msvc-pgo-full.tar.zst
+  version: 3.13.12
+- architecture: arm64
+  changelog: https://github.com/astral-sh/python-build-standalone/releases/tag/20260310
+  file_name: cpython-3.12.13+20260310-aarch64-pc-windows-msvc-pgo-full.tar.zst
+  platform: windows
+  released_at: 2026-03-10T00:00:00Z
+  sha256_checksum: ""
+  tags:
+    - "2026-03-10T00:00:00Z"
+  tool_ref: python
+  url: https://github.com/astral-sh/python-build-standalone/releases/download/20260310/cpython-3.12.13%2B20260310-aarch64-pc-windows-msvc-pgo-full.tar.zst
+  version: 3.12.13
+- architecture: arm64
+  changelog: https://github.com/astral-sh/python-build-standalone/releases/tag/20260310
+  file_name: cpython-3.11.15+20260310-aarch64-pc-windows-msvc-pgo-full.tar.zst
+  platform: windows
+  released_at: 2026-03-10T00:00:00Z
+  sha256_checksum: ""
+  tags:
+    - "2026-03-10T00:00:00Z"
+  tool_ref: python
+  url: https://github.com/astral-sh/python-build-standalone/releases/download/20260310/cpython-3.11.15%2B20260310-aarch64-pc-windows-msvc-pgo-full.tar.zst
+  version: 3.11.15
+- architecture: arm64
+  changelog: https://github.com/boyter/scc/releases/tag/v3.7.0
+  file_name: scc_Windows_arm64.zip
+  platform: windows
+  released_at: 2026-03-04T22:34:24Z
+  sha256_checksum: fd114614c10382c9ed2e32d5455cc4b51960a9f71691c5c1ca42b31adea5b84d
+  tags:
+    - latest
+  tool_ref: scc
+  url: https://github.com/boyter/scc/releases/download/v3.7.0/scc_Windows_arm64.zip
+  version: 3.7.0
+- architecture: arm64
   changelog: https://github.com/boyter/scc/releases/tag/v3.6.0
   file_name: scc_Windows_arm64.zip
   platform: windows
   released_at: 2025-10-31T05:35:02Z
   sha256_checksum: ae2033a14fa171780936a9a50d627bad489469831ceeeafda93f6e3a3e433f9d
-  tags:
-    - latest
   tool_ref: scc
   url: https://github.com/boyter/scc/releases/download/v3.6.0/scc_Windows_arm64.zip
   version: 3.6.0
@@ -3793,13 +4816,94 @@
   url: https://github.com/boyter/scc/releases/download/v3.5.0/scc_Windows_arm64.zip
   version: 3.5.0
 - architecture: arm64
+  changelog: https://github.com/supabase/cli/releases/tag/v2.78.1
+  file_name: supabase_windows_arm64.tar.gz
+  platform: windows
+  released_at: 2026-03-10T16:29:45Z
+  sha256_checksum: sha256:7fdd9848628722b6f24803b0a3f34c0e10d63b5e6cd50a5827fdc9d403878e36
+  tags:
+    - latest
+  tool_ref: supabase_cli
+  url: https://github.com/supabase/cli/releases/download/v2.78.1/supabase_windows_arm64.tar.gz
+  version: 2.78.1
+- architecture: arm64
+  changelog: https://github.com/supabase/cli/releases/tag/v2.78.0
+  file_name: supabase_windows_arm64.tar.gz
+  platform: windows
+  released_at: 2026-03-10T14:13:16Z
+  sha256_checksum: sha256:db189d91bb550f5cb024ac58f184fac87660972fe7e643b2857ba36d4725ef37
+  tool_ref: supabase_cli
+  url: https://github.com/supabase/cli/releases/download/v2.78.0/supabase_windows_arm64.tar.gz
+  version: 2.78.0
+- architecture: arm64
+  changelog: https://github.com/supabase/cli/releases/tag/v2.77.1
+  file_name: supabase_windows_arm64.tar.gz
+  platform: windows
+  released_at: 2026-03-09T15:25:38Z
+  sha256_checksum: sha256:6f678f89f2e2fbf3aaeee9af34792ba4fcd4da28f31faa56fe28bf689ec51b2a
+  tool_ref: supabase_cli
+  url: https://github.com/supabase/cli/releases/download/v2.77.1/supabase_windows_arm64.tar.gz
+  version: 2.77.1
+- architecture: arm64
+  changelog: https://github.com/supabase/cli/releases/tag/v2.77.0
+  file_name: supabase_windows_arm64.tar.gz
+  platform: windows
+  released_at: 2026-03-06T15:18:54Z
+  sha256_checksum: sha256:a3c98ffb874ff96f509ee0474b8635a632b2dca02e3b75f5726f0d9e1a472492
+  tool_ref: supabase_cli
+  url: https://github.com/supabase/cli/releases/download/v2.77.0/supabase_windows_arm64.tar.gz
+  version: 2.77.0
+- architecture: arm64
+  changelog: https://github.com/supabase/cli/releases/tag/v2.76.17
+  file_name: supabase_windows_arm64.tar.gz
+  platform: windows
+  released_at: 2026-03-05T13:50:06Z
+  sha256_checksum: sha256:ce5e1f009b30361cbd301aac9c4881ca1d9f3d7a98d8fff3d959e54a16b70470
+  tool_ref: supabase_cli
+  url: https://github.com/supabase/cli/releases/download/v2.76.17/supabase_windows_arm64.tar.gz
+  version: 2.76.17
+- architecture: arm64
+  changelog: https://github.com/supabase/cli/releases/tag/v2.76.16
+  file_name: supabase_windows_arm64.tar.gz
+  platform: windows
+  released_at: 2026-03-03T09:16:50Z
+  sha256_checksum: sha256:2e4009f0b1c21b6749f79cd9a43c069f5e84c1027f70541018c15c9c45372ac3
+  tool_ref: supabase_cli
+  url: https://github.com/supabase/cli/releases/download/v2.76.16/supabase_windows_arm64.tar.gz
+  version: 2.76.16
+- architecture: arm64
+  changelog: https://github.com/supabase/cli/releases/tag/v2.76.15
+  file_name: supabase_windows_arm64.tar.gz
+  platform: windows
+  released_at: 2026-02-25T10:25:45Z
+  sha256_checksum: sha256:1a7991f027e583621b4ad9220fbd4f53fcbb6b915582cd7cd989e43d3ab5ea2e
+  tool_ref: supabase_cli
+  url: https://github.com/supabase/cli/releases/download/v2.76.15/supabase_windows_arm64.tar.gz
+  version: 2.76.15
+- architecture: arm64
+  changelog: https://github.com/supabase/cli/releases/tag/v2.76.14
+  file_name: supabase_windows_arm64.tar.gz
+  platform: windows
+  released_at: 2026-02-23T19:45:46Z
+  sha256_checksum: sha256:67a89d840d64df0a898d77cb8507111d51435d41dd76fd19ed4851c9164a0975
+  tool_ref: supabase_cli
+  url: https://github.com/supabase/cli/releases/download/v2.76.14/supabase_windows_arm64.tar.gz
+  version: 2.76.14
+- architecture: arm64
+  changelog: https://github.com/supabase/cli/releases/tag/v2.76.13
+  file_name: supabase_windows_arm64.tar.gz
+  platform: windows
+  released_at: 2026-02-23T14:08:08Z
+  sha256_checksum: sha256:a4c8fdbf45e4ca62b0fbb96cadf4e178c9dfc8fcc27d3ec25bbc06453829c6c3
+  tool_ref: supabase_cli
+  url: https://github.com/supabase/cli/releases/download/v2.76.13/supabase_windows_arm64.tar.gz
+  version: 2.76.13
+- architecture: arm64
   changelog: https://github.com/supabase/cli/releases/tag/v2.76.12
   file_name: supabase_windows_arm64.tar.gz
   platform: windows
   released_at: 2026-02-20T15:35:51Z
   sha256_checksum: sha256:2a80f11626ccc6e023ac8a3ae605d34290e028cdf66d4cb589405ae01fc89c24
-  tags:
-    - latest
   tool_ref: supabase_cli
   url: https://github.com/supabase/cli/releases/download/v2.76.12/supabase_windows_arm64.tar.gz
   version: 2.76.12
@@ -6000,14 +7104,23 @@
   url: https://github.com/supabase/cli/releases/download/v2.31.4/supabase_windows_arm64.tar.gz
   version: 2.31.4
 - architecture: arm64
+  changelog: https://github.com/tailwindlabs/tailwindcss/releases/tag/v4.2.1
+  file_name: tailwindcss-windows-x64.exe
+  platform: windows
+  released_at: 2026-02-23T12:51:32Z
+  sha256_checksum: ""
+  tags:
+    - latest
+    - V4
+  tool_ref: tailwind_cli
+  url: https://github.com/tailwindlabs/tailwindcss/releases/download/v4.2.1/tailwindcss-windows-x64.exe
+  version: 4.2.1
+- architecture: arm64
   changelog: https://github.com/tailwindlabs/tailwindcss/releases/tag/v4.2.0
   file_name: tailwindcss-windows-x64.exe
   platform: windows
   released_at: 2026-02-18T14:58:28Z
   sha256_checksum: ""
-  tags:
-    - V4
-    - latest
   tool_ref: tailwind_cli
   url: https://github.com/tailwindlabs/tailwindcss/releases/download/v4.2.0/tailwindcss-windows-x64.exe
   version: 4.2.0
@@ -6041,13 +7154,31 @@
   url: https://github.com/tailwindlabs/tailwindcss/releases/download/v3.4.18/tailwindcss-windows-arm64.exe
   version: 3.4.18
 - architecture: arm64
+  changelog: https://github.com/go-task/task/releases/tag/v3.49.1
+  file_name: task_windows_arm64.zip
+  platform: windows
+  released_at: 2026-03-08T20:08:19Z
+  sha256_checksum: sha256:bacbc74ee6a1402179b62966f3e3f5b9047b6a6c2688c4ad3c08946b5a4cf731
+  tags:
+    - latest
+  tool_ref: task
+  url: https://github.com/go-task/task/releases/download/v3.49.1/task_windows_arm64.zip
+  version: 3.49.1
+- architecture: arm64
+  changelog: https://github.com/go-task/task/releases/tag/v3.49.0
+  file_name: task_windows_arm64.zip
+  platform: windows
+  released_at: 2026-03-07T22:26:04Z
+  sha256_checksum: sha256:14d8e259c79721fe30eb42849bf443c7d9ee20695149ecbcaa48da52a5869401
+  tool_ref: task
+  url: https://github.com/go-task/task/releases/download/v3.49.0/task_windows_arm64.zip
+  version: 3.49.0
+- architecture: arm64
   changelog: https://github.com/go-task/task/releases/tag/v3.48.0
   file_name: task_windows_arm64.zip
   platform: windows
   released_at: 2026-01-26T12:30:54Z
   sha256_checksum: sha256:10409f9401bcac6a0b5a7928d0216f1818140ba4b685509694fdd4b580fa0f97
-  tags:
-    - latest
   tool_ref: task
   url: https://github.com/go-task/task/releases/download/v3.48.0/task_windows_arm64.zip
   version: 3.48.0
@@ -6124,13 +7255,49 @@
   url: https://github.com/go-task/task/releases/download/v3.45.3/task_windows_arm64.zip
   version: 3.45.3
 - architecture: arm64
+  changelog: https://github.com/trufflesecurity/trufflehog/releases/tag/v3.93.8
+  file_name: trufflehog_3.93.8_windows_arm64.tar.gz
+  platform: windows
+  released_at: 2026-03-09T20:04:03Z
+  sha256_checksum: d1d1e4bbfdae32f73081a04187024feccc88faf32aa10c52aed5e5b36b468171
+  tags:
+    - latest
+  tool_ref: trufflehog
+  url: https://github.com/trufflesecurity/trufflehog/releases/download/v3.93.8/trufflehog_3.93.8_windows_arm64.tar.gz
+  version: 3.93.8
+- architecture: arm64
+  changelog: https://github.com/trufflesecurity/trufflehog/releases/tag/v3.93.7
+  file_name: trufflehog_3.93.7_windows_arm64.tar.gz
+  platform: windows
+  released_at: 2026-03-04T15:58:48Z
+  sha256_checksum: 72cbc127092f71f463aa0c1f6efcdc81c9cd8935221d92548d21335b02117874
+  tool_ref: trufflehog
+  url: https://github.com/trufflesecurity/trufflehog/releases/download/v3.93.7/trufflehog_3.93.7_windows_arm64.tar.gz
+  version: 3.93.7
+- architecture: arm64
+  changelog: https://github.com/trufflesecurity/trufflehog/releases/tag/v3.93.6
+  file_name: trufflehog_3.93.6_windows_arm64.tar.gz
+  platform: windows
+  released_at: 2026-02-27T15:09:47Z
+  sha256_checksum: 5325c031ef8c9830f5a2be44f0698e36a3b521df9b047c41306e4579c1bebb89
+  tool_ref: trufflehog
+  url: https://github.com/trufflesecurity/trufflehog/releases/download/v3.93.6/trufflehog_3.93.6_windows_arm64.tar.gz
+  version: 3.93.6
+- architecture: arm64
+  changelog: https://github.com/trufflesecurity/trufflehog/releases/tag/v3.93.5
+  file_name: trufflehog_3.93.5_windows_arm64.tar.gz
+  platform: windows
+  released_at: 2026-02-26T19:30:42Z
+  sha256_checksum: 89be17ea5117bb2dfe81cdd5bf87c8d1c4489d21de51da2b5a74de1da9af968e
+  tool_ref: trufflehog
+  url: https://github.com/trufflesecurity/trufflehog/releases/download/v3.93.5/trufflehog_3.93.5_windows_arm64.tar.gz
+  version: 3.93.5
+- architecture: arm64
   changelog: https://github.com/trufflesecurity/trufflehog/releases/tag/v3.93.4
   file_name: trufflehog_3.93.4_windows_arm64.tar.gz
   platform: windows
   released_at: 2026-02-19T14:17:56Z
   sha256_checksum: d5692b1dd0ff0af1392f121ae154cd21745cd213ecfd9a61afd18139cdd11b82
-  tags:
-    - latest
   tool_ref: trufflehog
   url: https://github.com/trufflesecurity/trufflehog/releases/download/v3.93.4/trufflehog_3.93.4_windows_arm64.tar.gz
   version: 3.93.4
@@ -6693,13 +7860,58 @@
   url: https://github.com/trufflesecurity/trufflehog/releases/download/v3.88.4/trufflehog_3.88.4_windows_arm64.tar.gz
   version: 3.88.4
 - architecture: arm64
+  changelog: https://github.com/astral-sh/uv/releases/tag/0.10.9
+  file_name: uv-aarch64-pc-windows-msvc.zip
+  platform: windows
+  released_at: 2026-03-06T21:24:15Z
+  sha256_checksum: sha256:5c2526844acf978eab784161c21604343141aa6c9ed22c237ae2f315648f049d
+  tags:
+    - latest
+  tool_ref: uv
+  url: https://github.com/astral-sh/uv/releases/download/0.10.9/uv-aarch64-pc-windows-msvc.zip
+  version: 0.10.9
+- architecture: arm64
+  changelog: https://github.com/astral-sh/uv/releases/tag/0.10.8
+  file_name: uv-aarch64-pc-windows-msvc.zip
+  platform: windows
+  released_at: 2026-03-03T21:39:09Z
+  sha256_checksum: sha256:20db25dc446f9a75d1cfde0a5f4b021e1b2eb266e600a610d32c7ca5d7ff83bf
+  tool_ref: uv
+  url: https://github.com/astral-sh/uv/releases/download/0.10.8/uv-aarch64-pc-windows-msvc.zip
+  version: 0.10.8
+- architecture: arm64
+  changelog: https://github.com/astral-sh/uv/releases/tag/0.10.7
+  file_name: uv-aarch64-pc-windows-msvc.zip
+  platform: windows
+  released_at: 2026-02-27T12:36:47Z
+  sha256_checksum: sha256:45ba7b72a7435343d650c73d21d65d2e8bdda47f6bd39af00e37f3cb70aa79ef
+  tool_ref: uv
+  url: https://github.com/astral-sh/uv/releases/download/0.10.7/uv-aarch64-pc-windows-msvc.zip
+  version: 0.10.7
+- architecture: arm64
+  changelog: https://github.com/astral-sh/uv/releases/tag/0.10.6
+  file_name: uv-aarch64-pc-windows-msvc.zip
+  platform: windows
+  released_at: 2026-02-25T00:30:19Z
+  sha256_checksum: sha256:e431c9a4f8d66e872f6640500cbbf1af20418720b78ac01404399ac810ef2e46
+  tool_ref: uv
+  url: https://github.com/astral-sh/uv/releases/download/0.10.6/uv-aarch64-pc-windows-msvc.zip
+  version: 0.10.6
+- architecture: arm64
+  changelog: https://github.com/astral-sh/uv/releases/tag/0.10.5
+  file_name: uv-aarch64-pc-windows-msvc.zip
+  platform: windows
+  released_at: 2026-02-24T04:06:55Z
+  sha256_checksum: sha256:7f88f279e271cd76a6e07fe1ad711cbdf15374206ab79f55adadb818ebbd8e43
+  tool_ref: uv
+  url: https://github.com/astral-sh/uv/releases/download/0.10.5/uv-aarch64-pc-windows-msvc.zip
+  version: 0.10.5
+- architecture: arm64
   changelog: https://github.com/astral-sh/uv/releases/tag/0.10.4
   file_name: uv-aarch64-pc-windows-msvc.zip
   platform: windows
   released_at: 2026-02-17T22:04:18Z
   sha256_checksum: sha256:77f859cfc26181bdfb94087ce42336d9e2d9e0700bc42f6668445cde517198ce
-  tags:
-    - latest
   tool_ref: uv
   url: https://github.com/astral-sh/uv/releases/download/0.10.4/uv-aarch64-pc-windows-msvc.zip
   version: 0.10.4
@@ -7613,12 +8825,28 @@
   url: https://github.com/astral-sh/uv/releases/download/0.5.31/uv-aarch64-pc-windows-msvc.zip
   version: 0.5.31
 - architecture: arm64
-  changelog: https://github.com/wailsapp/wails/releases/tag/v3.0.0-alpha.72
+  changelog: https://github.com/wailsapp/wails/releases/tag/v3.0.0-alpha.74
   file_name: ""
   platform: windows
   sha256_checksum: ""
   tags:
     - latest-prerelease
+  tool_ref: wails
+  url: ""
+  version: 3.0.0-alpha.74
+- architecture: arm64
+  changelog: https://github.com/wailsapp/wails/releases/tag/v3.0.0-alpha.73
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
+  tool_ref: wails
+  url: ""
+  version: 3.0.0-alpha.73
+- architecture: arm64
+  changelog: https://github.com/wailsapp/wails/releases/tag/v3.0.0-alpha.72
+  file_name: ""
+  platform: windows
+  sha256_checksum: ""
   tool_ref: wails
   url: ""
   version: 3.0.0-alpha.72

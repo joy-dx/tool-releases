@@ -1,4 +1,692 @@
 - architecture: arm64
+  file_name: ""
+  platform: linux
+  sha256_checksum: ""
+  tags:
+    - latest
+  tool_ref: ansible
+  url: ""
+  version: 13.4.0
+- architecture: arm64
+  file_name: ""
+  platform: linux
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 13.3.0
+- architecture: arm64
+  file_name: ""
+  platform: linux
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 13.2.0
+- architecture: arm64
+  file_name: ""
+  platform: linux
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 13.1.0
+- architecture: arm64
+  file_name: ""
+  platform: linux
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 13.0.0
+- architecture: arm64
+  file_name: ""
+  platform: linux
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 12.3.0
+- architecture: arm64
+  file_name: ""
+  platform: linux
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 12.2.0
+- architecture: arm64
+  file_name: ""
+  platform: linux
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 12.1.0
+- architecture: arm64
+  file_name: ""
+  platform: linux
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 12.0.0
+- architecture: arm64
+  file_name: ""
+  platform: linux
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 11.13.0
+- architecture: arm64
+  file_name: ""
+  platform: linux
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 11.12.0
+- architecture: arm64
+  file_name: ""
+  platform: linux
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 11.11.0
+- architecture: arm64
+  file_name: ""
+  platform: linux
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 11.10.0
+- architecture: arm64
+  file_name: ""
+  platform: linux
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 11.9.0
+- architecture: arm64
+  file_name: ""
+  platform: linux
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 11.8.0
+- architecture: arm64
+  file_name: ""
+  platform: linux
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 11.7.0
+- architecture: arm64
+  file_name: ""
+  platform: linux
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 11.6.0
+- architecture: arm64
+  file_name: ""
+  platform: linux
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 11.5.0
+- architecture: arm64
+  file_name: ""
+  platform: linux
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 11.4.0
+- architecture: arm64
+  file_name: ""
+  platform: linux
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 11.3.0
+- architecture: arm64
+  file_name: ""
+  platform: linux
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 11.2.0
+- architecture: arm64
+  file_name: ""
+  platform: linux
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 11.1.0
+- architecture: arm64
+  file_name: ""
+  platform: linux
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 11.0.0
+- architecture: arm64
+  file_name: ""
+  platform: linux
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 10.7.0
+- architecture: arm64
+  file_name: ""
+  platform: linux
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 10.6.0
+- architecture: arm64
+  file_name: ""
+  platform: linux
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 10.5.0
+- architecture: arm64
+  file_name: ""
+  platform: linux
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 10.4.0
+- architecture: arm64
+  file_name: ""
+  platform: linux
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 10.3.0
+- architecture: arm64
+  file_name: ""
+  platform: linux
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 10.2.0
+- architecture: arm64
+  file_name: ""
+  platform: linux
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 10.1.0
+- architecture: arm64
+  file_name: ""
+  platform: linux
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 10.0.1
+- architecture: arm64
+  file_name: ""
+  platform: linux
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 9.13.0
+- architecture: arm64
+  file_name: ""
+  platform: linux
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 9.12.0
+- architecture: arm64
+  file_name: ""
+  platform: linux
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 9.11.0
+- architecture: arm64
+  file_name: ""
+  platform: linux
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 9.10.0
+- architecture: arm64
+  file_name: ""
+  platform: linux
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 9.9.0
+- architecture: arm64
+  file_name: ""
+  platform: linux
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 9.8.0
+- architecture: arm64
+  file_name: ""
+  platform: linux
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 9.7.0
+- architecture: arm64
+  file_name: ""
+  platform: linux
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 9.6.1
+- architecture: arm64
+  file_name: ""
+  platform: linux
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 9.5.1
+- architecture: arm64
+  file_name: ""
+  platform: linux
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 9.4.0
+- architecture: arm64
+  file_name: ""
+  platform: linux
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 9.3.0
+- architecture: arm64
+  file_name: ""
+  platform: linux
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 9.2.0
+- architecture: arm64
+  file_name: ""
+  platform: linux
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 9.1.0
+- architecture: arm64
+  file_name: ""
+  platform: linux
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 9.0.1
+- architecture: arm64
+  file_name: ""
+  platform: linux
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 8.7.0
+- architecture: arm64
+  file_name: ""
+  platform: linux
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 8.6.1
+- architecture: arm64
+  file_name: ""
+  platform: linux
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 8.6.0
+- architecture: arm64
+  file_name: ""
+  platform: linux
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 8.5.0
+- architecture: arm64
+  file_name: ""
+  platform: linux
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 8.4.0
+- architecture: arm64
+  file_name: ""
+  platform: linux
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 8.3.0
+- architecture: arm64
+  file_name: ""
+  platform: linux
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 8.2.0
+- architecture: arm64
+  file_name: ""
+  platform: linux
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 8.1.0
+- architecture: arm64
+  file_name: ""
+  platform: linux
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 8.0.0
+- architecture: arm64
+  file_name: ""
+  platform: linux
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 7.7.0
+- architecture: arm64
+  file_name: ""
+  platform: linux
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 7.6.0
+- architecture: arm64
+  file_name: ""
+  platform: linux
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 7.5.0
+- architecture: arm64
+  file_name: ""
+  platform: linux
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 7.4.0
+- architecture: arm64
+  file_name: ""
+  platform: linux
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 7.3.0
+- architecture: arm64
+  file_name: ""
+  platform: linux
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 7.2.0
+- architecture: arm64
+  file_name: ""
+  platform: linux
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 7.1.0
+- architecture: arm64
+  file_name: ""
+  platform: linux
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 7.0.0
+- architecture: arm64
+  file_name: ""
+  platform: linux
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 6.7.0
+- architecture: arm64
+  file_name: ""
+  platform: linux
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 6.6.0
+- architecture: arm64
+  file_name: ""
+  platform: linux
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 6.5.0
+- architecture: arm64
+  file_name: ""
+  platform: linux
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 6.4.0
+- architecture: arm64
+  file_name: ""
+  platform: linux
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 6.3.0
+- architecture: arm64
+  file_name: ""
+  platform: linux
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 6.2.0
+- architecture: arm64
+  file_name: ""
+  platform: linux
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 6.1.0
+- architecture: arm64
+  file_name: ""
+  platform: linux
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 6.0.0
+- architecture: arm64
+  file_name: ""
+  platform: linux
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 5.10.0
+- architecture: arm64
+  file_name: ""
+  platform: linux
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 5.9.0
+- architecture: arm64
+  file_name: ""
+  platform: linux
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 5.8.0
+- architecture: arm64
+  file_name: ""
+  platform: linux
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 5.7.1
+- architecture: arm64
+  file_name: ""
+  platform: linux
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 5.7.0
+- architecture: arm64
+  file_name: ""
+  platform: linux
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 5.6.0
+- architecture: arm64
+  file_name: ""
+  platform: linux
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 5.5.0
+- architecture: arm64
+  file_name: ""
+  platform: linux
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 5.4.0
+- architecture: arm64
+  file_name: ""
+  platform: linux
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 5.3.0
+- architecture: arm64
+  file_name: ""
+  platform: linux
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 5.2.0
+- architecture: arm64
+  file_name: ""
+  platform: linux
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 5.1.0
+- architecture: arm64
+  file_name: ""
+  platform: linux
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 5.0.1
+- architecture: arm64
+  file_name: ""
+  platform: linux
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 4.10.0
+- architecture: arm64
+  file_name: ""
+  platform: linux
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 4.9.0
+- architecture: arm64
+  file_name: ""
+  platform: linux
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 4.8.0
+- architecture: arm64
+  file_name: ""
+  platform: linux
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 4.7.0
+- architecture: arm64
+  file_name: ""
+  platform: linux
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 4.6.0
+- architecture: arm64
+  file_name: ""
+  platform: linux
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 4.5.0
+- architecture: arm64
+  file_name: ""
+  platform: linux
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 4.4.0
+- architecture: arm64
+  file_name: ""
+  platform: linux
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 4.3.0
+- architecture: arm64
+  file_name: ""
+  platform: linux
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 4.2.0
+- architecture: arm64
+  file_name: ""
+  platform: linux
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 4.1.0
+- architecture: arm64
+  file_name: ""
+  platform: linux
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 4.0.0
+- architecture: arm64
+  file_name: ""
+  platform: linux
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 3.4.0
+- architecture: arm64
+  file_name: ""
+  platform: linux
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 3.3.0
+- architecture: arm64
+  file_name: ""
+  platform: linux
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 3.2.0
+- architecture: arm64
+  file_name: ""
+  platform: linux
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 3.1.0
+- architecture: arm64
+  file_name: ""
+  platform: linux
+  sha256_checksum: ""
+  tool_ref: ansible
+  url: ""
+  version: 3.0.0
+- architecture: arm64
   changelog: https://github.com/containernetworking/plugins/releases/tag/v1.9.0
   file_name: cni-plugins-linux-arm64-v1.9.0.tgz
   platform: linux
@@ -37,13 +725,22 @@
   url: https://github.com/containernetworking/plugins/releases/download/v1.6.2/cni-plugins-linux-arm64-v1.6.2.tgz
   version: 1.6.2
 - architecture: arm64
+  changelog: https://github.com/containerd/containerd/releases/tag/v2.2.2
+  file_name: containerd-static-2.2.2-linux-arm64.tar.gz
+  platform: linux
+  released_at: 2026-03-10T20:03:58Z
+  sha256_checksum: f22e03e12edd08dc49e139fec1fb0e0571950df0b6275577bbca718733acea9d
+  tags:
+    - latest
+  tool_ref: containerd
+  url: https://github.com/containerd/containerd/releases/download/v2.2.2/containerd-static-2.2.2-linux-arm64.tar.gz
+  version: 2.2.2
+- architecture: arm64
   changelog: https://github.com/containerd/containerd/releases/tag/v2.2.1
   file_name: containerd-static-2.2.1-linux-arm64.tar.gz
   platform: linux
   released_at: 2025-12-18T17:37:28Z
   sha256_checksum: 6b3b011ee388638eace05ac3be0eb32dfb4a43086695c29d06e997febd336f2e
-  tags:
-    - latest
   tool_ref: containerd
   url: https://github.com/containerd/containerd/releases/download/v2.2.1/containerd-static-2.2.1-linux-arm64.tar.gz
   version: 2.2.1
@@ -57,13 +754,40 @@
   url: https://github.com/containerd/containerd/releases/download/v2.1.6/containerd-static-2.1.6-linux-arm64.tar.gz
   version: 2.1.6
 - architecture: arm64
+  changelog: https://github.com/schollz/croc/releases/tag/v10.4.2
+  file_name: croc_v10.4.2_Linux-ARM64.tar.gz
+  platform: linux
+  released_at: 2026-03-11T02:13:41Z
+  sha256_checksum: 1e0d2ba854fa4e7cccd2d816e360356b91873fee3fe34677b9136a1a36513f29
+  tags:
+    - latest
+  tool_ref: croc
+  url: https://github.com/schollz/croc/releases/download/v10.4.2/croc_v10.4.2_Linux-ARM64.tar.gz
+  version: 10.4.2
+- architecture: arm64
+  changelog: https://github.com/schollz/croc/releases/tag/v10.4.1
+  file_name: croc_v10.4.1_Linux-ARM64.tar.gz
+  platform: linux
+  released_at: 2026-03-06T19:11:06Z
+  sha256_checksum: 105d36ecc8450a7a858ad3102acbd06cd31341e8a4b8aac6ebce81f4a2d4323d
+  tool_ref: croc
+  url: https://github.com/schollz/croc/releases/download/v10.4.1/croc_v10.4.1_Linux-ARM64.tar.gz
+  version: 10.4.1
+- architecture: arm64
+  changelog: https://github.com/schollz/croc/releases/tag/v10.4.0
+  file_name: croc_v10.4.0_Linux-ARM64.tar.gz
+  platform: linux
+  released_at: 2026-03-06T15:46:00Z
+  sha256_checksum: ff0eb9db54a17627bfbe43772aaaaeb9727f8e1d3f159e8fd5b7d0e50ace3efd
+  tool_ref: croc
+  url: https://github.com/schollz/croc/releases/download/v10.4.0/croc_v10.4.0_Linux-ARM64.tar.gz
+  version: 10.4.0
+- architecture: arm64
   changelog: https://github.com/schollz/croc/releases/tag/v10.3.1
   file_name: croc_v10.3.1_Linux-ARM64.tar.gz
   platform: linux
   released_at: 2025-11-20T15:26:41Z
   sha256_checksum: 18c71d91547f03bd52f4c13d146aca1df3a8ce5c205c5758a4fb0ad6f0de1821
-  tags:
-    - latest
   tool_ref: croc
   url: https://github.com/schollz/croc/releases/download/v10.3.1/croc_v10.3.1_Linux-ARM64.tar.gz
   version: 10.3.1
@@ -140,13 +864,22 @@
   url: https://github.com/schollz/croc/releases/download/v10.2.0/croc_v10.2.0_Linux-ARM64.tar.gz
   version: 10.2.0
 - architecture: arm64
+  changelog: https://github.com/crowdin/crowdin-cli/releases/tag/4.14.0
+  file_name: ""
+  platform: linux
+  released_at: 2026-02-23T10:28:55Z
+  sha256_checksum: acdb420a7b2c3108224d4e01ac7f2e5078ceb93cafac7aa528a15c96146b9d91
+  tags:
+    - latest
+  tool_ref: crowdin_cli
+  url: ""
+  version: 4.14.0
+- architecture: arm64
   changelog: https://github.com/crowdin/crowdin-cli/releases/tag/4.13.0
   file_name: ""
   platform: linux
   released_at: 2026-01-20T12:36:41Z
   sha256_checksum: 5e746e6ce12d682007d25247c811a2eea8cb146640eed7ce19d69a18d3aca206
-  tags:
-    - latest
   tool_ref: crowdin_cli
   url: ""
   version: 4.13.0
@@ -178,13 +911,22 @@
   url: ""
   version: 4.10.0
 - architecture: arm64
+  changelog: https://github.com/go-delve/delve/releases/tag/v1.26.1
+  file_name: ""
+  platform: linux
+  released_at: 2026-03-03T22:10:06Z
+  sha256_checksum: ""
+  tags:
+    - latest
+  tool_ref: delve
+  url: ""
+  version: 1.26.1
+- architecture: arm64
   changelog: https://github.com/go-delve/delve/releases/tag/v1.26.0
   file_name: ""
   platform: linux
   released_at: 2025-12-19T19:49:38Z
   sha256_checksum: ""
-  tags:
-    - latest
   tool_ref: delve
   url: ""
   version: 1.26.0
@@ -207,13 +949,58 @@
   url: ""
   version: 1.25.1
 - architecture: arm64
+  changelog: https://github.com/denoland/deno/releases/tag/v2.7.4
+  file_name: deno-aarch64-unknown-linux-gnu.zip
+  platform: linux
+  released_at: 2026-03-05T14:21:56Z
+  sha256_checksum: sha256:d2b99d1c072cab6ec8ececda1a1bd5889a9ea5217fafd9a9a9f5b0e56ef5e9cd
+  tags:
+    - latest
+  tool_ref: deno
+  url: https://github.com/denoland/deno/releases/download/v2.7.4/deno-aarch64-unknown-linux-gnu.zip
+  version: 2.7.4
+- architecture: arm64
+  changelog: https://github.com/denoland/deno/releases/tag/v2.7.3
+  file_name: deno-aarch64-unknown-linux-gnu.zip
+  platform: linux
+  released_at: 2026-03-04T16:21:25Z
+  sha256_checksum: sha256:a95cc1f29a5e82350c8b67cfcde2f3fb08591d458d75ce948c7d760e7e1ee816
+  tool_ref: deno
+  url: https://github.com/denoland/deno/releases/download/v2.7.3/deno-aarch64-unknown-linux-gnu.zip
+  version: 2.7.3
+- architecture: arm64
+  changelog: https://github.com/denoland/deno/releases/tag/v2.7.2
+  file_name: deno-aarch64-unknown-linux-gnu.zip
+  platform: linux
+  released_at: 2026-03-03T16:06:30Z
+  sha256_checksum: sha256:c36c0b284d084dfe7045a106e60bd98d919183fd69d7902a42f3c7a244bf4386
+  tool_ref: deno
+  url: https://github.com/denoland/deno/releases/download/v2.7.2/deno-aarch64-unknown-linux-gnu.zip
+  version: 2.7.2
+- architecture: arm64
+  changelog: https://github.com/denoland/deno/releases/tag/v2.7.1
+  file_name: deno-aarch64-unknown-linux-gnu.zip
+  platform: linux
+  released_at: 2026-02-25T17:04:23Z
+  sha256_checksum: sha256:bfe62e582faceb9885748f00a9f44cd5af458b9d08d7ac8275c4048ff1bb1540
+  tool_ref: deno
+  url: https://github.com/denoland/deno/releases/download/v2.7.1/deno-aarch64-unknown-linux-gnu.zip
+  version: 2.7.1
+- architecture: arm64
+  changelog: https://github.com/denoland/deno/releases/tag/v2.7.0
+  file_name: deno-aarch64-unknown-linux-gnu.zip
+  platform: linux
+  released_at: 2026-02-25T10:39:21Z
+  sha256_checksum: sha256:04d35f9f836c92804dcfb433740e0c6dbdea2b32b444a50dc71aa03dcaf06589
+  tool_ref: deno
+  url: https://github.com/denoland/deno/releases/download/v2.7.0/deno-aarch64-unknown-linux-gnu.zip
+  version: 2.7.0
+- architecture: arm64
   changelog: https://github.com/denoland/deno/releases/tag/v2.6.10
   file_name: deno-aarch64-unknown-linux-gnu.zip
   platform: linux
   released_at: 2026-02-17T16:05:18Z
   sha256_checksum: sha256:ad4031b16b193997cd40d2bf68c9af8b5148e0f39c1e975cfbb6d60ecec19496
-  tags:
-    - latest
   tool_ref: deno
   url: https://github.com/denoland/deno/releases/download/v2.6.10/deno-aarch64-unknown-linux-gnu.zip
   version: 2.6.10
@@ -382,11 +1169,18 @@
   url: https://github.com/docker/docker-credential-helpers/releases/download/v0.9.3/docker-credential-pass-v0.9.3.linux-arm64
   version: 0.9.3
 - architecture: arm64
+  file_name: go1.26.1.linux-arm64.tar.gz
+  platform: linux
+  sha256_checksum: a290581cfe4fe28ddd737dde3095f3dbeb7f2e4065cab4eae44dfc53b760c2f7
+  tags:
+    - latest
+  tool_ref: go
+  url: https://go.dev/dl/go1.26.1.linux-arm64.tar.gz
+  version: 1.26.1
+- architecture: arm64
   file_name: go1.26.0.linux-arm64.tar.gz
   platform: linux
   sha256_checksum: bd03b743eb6eb4193ea3c3fd3956546bf0e3ca5b7076c8226334afe6b75704cd
-  tags:
-    - latest
   tool_ref: go
   url: https://go.dev/dl/go1.26.0.linux-arm64.tar.gz
   version: 1.26.0
@@ -1243,13 +2037,49 @@
   url: https://github.com/Zxilly/go-size-analyzer/releases/download/v1.9.2/go-size-analyzer_1.9.2_linux_arm64.tar.gz
   version: 1.9.2
 - architecture: arm64
+  changelog: https://github.com/golangci/golangci-lint/releases/tag/v2.11.3
+  file_name: golangci-lint-2.11.3-linux-arm64.tar.gz
+  platform: linux
+  released_at: 2026-03-10T10:52:02Z
+  sha256_checksum: ee3d95f301359e7d578e6d99c8ad5aeadbabc5a13009a30b2b0df11c8058afe9
+  tags:
+    - latest
+  tool_ref: golangcilint
+  url: https://github.com/golangci/golangci-lint/releases/download/v2.11.3/golangci-lint-2.11.3-linux-arm64.tar.gz
+  version: 2.11.3
+- architecture: arm64
+  changelog: https://github.com/golangci/golangci-lint/releases/tag/v2.11.2
+  file_name: golangci-lint-2.11.2-linux-arm64.tar.gz
+  platform: linux
+  released_at: 2026-03-07T21:54:09Z
+  sha256_checksum: c3c83c7ed003e881991af21361c487151abd37969927ed9062cd0b48f3cd1d8d
+  tool_ref: golangcilint
+  url: https://github.com/golangci/golangci-lint/releases/download/v2.11.2/golangci-lint-2.11.2-linux-arm64.tar.gz
+  version: 2.11.2
+- architecture: arm64
+  changelog: https://github.com/golangci/golangci-lint/releases/tag/v2.11.1
+  file_name: golangci-lint-2.11.1-linux-arm64.tar.gz
+  platform: linux
+  released_at: 2026-03-06T14:30:47Z
+  sha256_checksum: 3cbca30a6a2de1a81f36d128f5ee70c577fb4ce89731ae5e77ae3a0b59e800bf
+  tool_ref: golangcilint
+  url: https://github.com/golangci/golangci-lint/releases/download/v2.11.1/golangci-lint-2.11.1-linux-arm64.tar.gz
+  version: 2.11.1
+- architecture: arm64
+  changelog: https://github.com/golangci/golangci-lint/releases/tag/v2.11.0
+  file_name: golangci-lint-2.11.0-linux-arm64.tar.gz
+  platform: linux
+  released_at: 2026-03-06T13:43:43Z
+  sha256_checksum: 24faefd54f4318bb7f0531c635ba420599fc44bb376b4c36f10c79de5e4d8dd0
+  tool_ref: golangcilint
+  url: https://github.com/golangci/golangci-lint/releases/download/v2.11.0/golangci-lint-2.11.0-linux-arm64.tar.gz
+  version: 2.11.0
+- architecture: arm64
   changelog: https://github.com/golangci/golangci-lint/releases/tag/v2.10.1
   file_name: golangci-lint-2.10.1-linux-arm64.tar.gz
   platform: linux
   released_at: 2026-02-17T15:54:50Z
   sha256_checksum: 6652b42ae02915eb2f9cb2a2e0cac99514c8eded8388d88ae3e06e1a52c00de8
-  tags:
-    - latest
   tool_ref: golangcilint
   url: https://github.com/golangci/golangci-lint/releases/download/v2.10.1/golangci-lint-2.10.1-linux-arm64.tar.gz
   version: 2.10.1
@@ -1551,13 +2381,49 @@
   url: https://github.com/golangci/golangci-lint/releases/download/v1.64.2/golangci-lint-1.64.2-linux-arm64.tar.gz
   version: 1.64.2
 - architecture: arm64
+  changelog: https://github.com/goreleaser/goreleaser/releases/tag/v2.14.3
+  file_name: goreleaser_Linux_arm64.tar.gz
+  platform: linux
+  released_at: 2026-03-09T15:44:18Z
+  sha256_checksum: 581a10e53c1176b3e81ee45cf531e02dbf899db0bc7b795669347df4276ce948
+  tags:
+    - latest
+  tool_ref: goreleaser
+  url: https://github.com/goreleaser/goreleaser/releases/download/v2.14.3/goreleaser_Linux_arm64.tar.gz
+  version: 2.14.3
+- architecture: arm64
+  changelog: https://github.com/goreleaser/goreleaser/releases/tag/v2.14.2
+  file_name: goreleaser_Linux_arm64.tar.gz
+  platform: linux
+  released_at: 2026-03-08T03:31:07Z
+  sha256_checksum: 9fef5e21ea03c5621ca592678800b74cda4937df05fa1a3bd13d46880adf92bd
+  tool_ref: goreleaser
+  url: https://github.com/goreleaser/goreleaser/releases/download/v2.14.2/goreleaser_Linux_arm64.tar.gz
+  version: 2.14.2
+- architecture: arm64
+  changelog: https://github.com/goreleaser/goreleaser/releases/tag/v2.14.1
+  file_name: goreleaser_Linux_arm64.tar.gz
+  platform: linux
+  released_at: 2026-02-25T17:00:26Z
+  sha256_checksum: a84d3b27f052c12ad5c8342d7caf1450a7174a305730aed21d72db09301e49a5
+  tool_ref: goreleaser
+  url: https://github.com/goreleaser/goreleaser/releases/download/v2.14.1/goreleaser_Linux_arm64.tar.gz
+  version: 2.14.1
+- architecture: arm64
+  changelog: https://github.com/goreleaser/goreleaser/releases/tag/v2.14.0
+  file_name: goreleaser_Linux_arm64.tar.gz
+  platform: linux
+  released_at: 2026-02-21T20:19:24Z
+  sha256_checksum: 1c0347661912e006259d4048549c9b4af51770b6b386759ee2df972ce87426fc
+  tool_ref: goreleaser
+  url: https://github.com/goreleaser/goreleaser/releases/download/v2.14.0/goreleaser_Linux_arm64.tar.gz
+  version: 2.14.0
+- architecture: arm64
   changelog: https://github.com/goreleaser/goreleaser/releases/tag/v2.13.3
   file_name: goreleaser_Linux_arm64.tar.gz
   platform: linux
   released_at: 2026-01-10T04:21:27Z
   sha256_checksum: 156656d0f874542d618568bd50afd3d33ced2e8aab2c60cc7c21e1b9fa52031e
-  tags:
-    - latest
   tool_ref: goreleaser
   url: https://github.com/goreleaser/goreleaser/releases/download/v2.13.3/goreleaser_Linux_arm64.tar.gz
   version: 2.13.3
@@ -1717,13 +2583,22 @@
   url: https://github.com/containers/gvisor-tap-vsock/releases/download/v0.7.1/gvproxy-linux-arm64
   version: 0.7.1
 - architecture: arm64
+  changelog: https://github.com/gohugoio/hugo/releases/tag/v0.157.0
+  file_name: hugo_0.157.0_linux-arm64.tar.gz
+  platform: linux
+  released_at: 2026-02-25T17:00:45Z
+  sha256_checksum: sha256:b2c1b5f097692b55f5cd9fa6bee30db42c03252056b9efa079f8f4a5f18a78fd
+  tags:
+    - latest
+  tool_ref: hugo
+  url: https://github.com/gohugoio/hugo/releases/download/v0.157.0/hugo_0.157.0_linux-arm64.tar.gz
+  version: 0.157.0
+- architecture: arm64
   changelog: https://github.com/gohugoio/hugo/releases/tag/v0.156.0
   file_name: hugo_0.156.0_linux-arm64.tar.gz
   platform: linux
   released_at: 2026-02-18T17:21:05Z
   sha256_checksum: sha256:5d792784f6f14f0c46a01151e7435e7fedc9975cfe96eea423ef3c0077971eb4
-  tags:
-    - latest
   tool_ref: hugo
   url: https://github.com/gohugoio/hugo/releases/download/v0.156.0/hugo_0.156.0_linux-arm64.tar.gz
   version: 0.156.0
@@ -1944,13 +2819,33 @@
   url: https://raw.pkg.keygen.sh/keygen/cli/2.9.1/keygen_linux_arm64
   version: 2.9.1
 - architecture: arm64
+  changelog: https://github.com/lima-vm/lima/releases/tag/v2.0.3
+  file_name: lima-2.0.3-Linux-aarch64.tar.gz
+  platform: linux
+  released_at: 2025-12-25T09:18:01Z
+  sha256_checksum: sha256:d0f9c30b82fdbd06b5c951b76bf3378b68cc658aebfe243f777949e131b6ea28
+  tags:
+    - latest
+  tool_ref: lima
+  url: https://github.com/lima-vm/lima/releases/download/v2.0.3/lima-2.0.3-Linux-aarch64.tar.gz
+  version: 2.0.3
+- architecture: arm64
+  changelog: https://github.com/localstack/localstack-cli/releases/tag/v4.14.0
+  file_name: localstack-cli-4.14.0-linux-arm64-onefile.tar.gz
+  platform: linux
+  released_at: 2026-02-26T10:22:23Z
+  sha256_checksum: b9f48bb0cfac17bea5d748cb03c87aa7438122e2e0721c509a8602dfc6df6923
+  tags:
+    - latest
+  tool_ref: localstack_cli
+  url: https://github.com/localstack/localstack-cli/releases/download/v4.14.0/localstack-cli-4.14.0-linux-arm64-onefile.tar.gz
+  version: 4.14.0
+- architecture: arm64
   changelog: https://github.com/localstack/localstack-cli/releases/tag/v4.13.1
   file_name: localstack-cli-4.13.1-linux-arm64-onefile.tar.gz
   platform: linux
   released_at: 2026-02-02T11:57:33Z
   sha256_checksum: 7d36eeb00ad08239e1e14a3576ad648f56be88086fa16a9b4c46e83e0a45e477
-  tags:
-    - latest
   tool_ref: localstack_cli
   url: https://github.com/localstack/localstack-cli/releases/download/v4.13.1/localstack-cli-4.13.1-linux-arm64-onefile.tar.gz
   version: 4.13.1
@@ -2063,13 +2958,22 @@
   url: https://github.com/localstack/localstack-cli/releases/download/v4.6.0/localstack-cli-4.6.0-linux-arm64-onefile.tar.gz
   version: 4.6.0
 - architecture: arm64
+  changelog: https://github.com/vektra/mockery/releases/tag/v3.7.0
+  file_name: mockery_3.7.0_Linux_arm64.tar.gz
+  platform: linux
+  released_at: 2026-03-06T17:11:45Z
+  sha256_checksum: 94dab8c6d8421630da51fe950b4f0f1180e5bef6022a3a5b3fe537acace94741
+  tags:
+    - latest
+  tool_ref: mockery
+  url: https://github.com/vektra/mockery/releases/download/v3.7.0/mockery_3.7.0_Linux_arm64.tar.gz
+  version: 3.7.0
+- architecture: arm64
   changelog: https://github.com/vektra/mockery/releases/tag/v3.6.4
   file_name: mockery_3.6.4_Linux_arm64.tar.gz
   platform: linux
   released_at: 2026-02-13T15:23:28Z
   sha256_checksum: cc1f1bbf5709197f64171c907429f5920cd66b7594185948a2621a803b198758
-  tags:
-    - latest
   tool_ref: mockery
   url: https://github.com/vektra/mockery/releases/download/v3.6.4/mockery_3.6.4_Linux_arm64.tar.gz
   version: 3.6.4
@@ -2510,11 +3414,25 @@
   url: https://github.com/containerd/nerdctl/releases/download/v2.1.1/nerdctl-2.1.1-linux-arm64.tar.gz
   version: 2.1.1
 - architecture: arm64
-  file_name: node-v25.6.1-linux-arm64.tar.gz
+  file_name: node-v25.8.0-linux-arm64.tar.gz
   platform: linux
   sha256_checksum: ""
   tags:
     - latest
+  tool_ref: nodejs
+  url: https://nodejs.org/download/release/v25.8.0/node-v25.8.0-linux-arm64.tar.gz
+  version: 25.8.0
+- architecture: arm64
+  file_name: node-v25.7.0-linux-arm64.tar.gz
+  platform: linux
+  sha256_checksum: ""
+  tool_ref: nodejs
+  url: https://nodejs.org/download/release/v25.7.0/node-v25.7.0-linux-arm64.tar.gz
+  version: 25.7.0
+- architecture: arm64
+  file_name: node-v25.6.1-linux-arm64.tar.gz
+  platform: linux
+  sha256_checksum: ""
   tool_ref: nodejs
   url: https://nodejs.org/download/release/v25.6.1/node-v25.6.1-linux-arm64.tar.gz
   version: 25.6.1
@@ -3729,13 +4647,139 @@
   url: https://nodejs.org/download/release/v18.0.0/node-v18.0.0-linux-arm64.tar.gz
   version: 18.0.0
 - architecture: arm64
+  changelog: https://github.com/anomalyco/opencode/releases/tag/v1.2.24
+  file_name: opencode-linux-arm64-musl.tar.gz
+  platform: linux
+  released_at: 2026-03-09T16:10:00Z
+  sha256_checksum: ""
+  tags:
+    - latest
+  tool_ref: opencode
+  url: https://github.com/anomalyco/opencode/releases/download/v1.2.24/opencode-linux-arm64-musl.tar.gz
+  version: 1.2.24
+- architecture: arm64
+  changelog: https://github.com/anomalyco/opencode/releases/tag/v1.2.23
+  file_name: opencode-linux-arm64-musl.tar.gz
+  platform: linux
+  released_at: 2026-03-09T13:51:07Z
+  sha256_checksum: ""
+  tool_ref: opencode
+  url: https://github.com/anomalyco/opencode/releases/download/v1.2.23/opencode-linux-arm64-musl.tar.gz
+  version: 1.2.23
+- architecture: arm64
+  changelog: https://github.com/anomalyco/opencode/releases/tag/v1.2.22
+  file_name: opencode-linux-arm64-musl.tar.gz
+  platform: linux
+  released_at: 2026-03-08T22:35:21Z
+  sha256_checksum: ""
+  tool_ref: opencode
+  url: https://github.com/anomalyco/opencode/releases/download/v1.2.22/opencode-linux-arm64-musl.tar.gz
+  version: 1.2.22
+- architecture: arm64
+  changelog: https://github.com/anomalyco/opencode/releases/tag/v1.2.21
+  file_name: opencode-linux-arm64-musl.tar.gz
+  platform: linux
+  released_at: 2026-03-07T18:01:01Z
+  sha256_checksum: ""
+  tool_ref: opencode
+  url: https://github.com/anomalyco/opencode/releases/download/v1.2.21/opencode-linux-arm64-musl.tar.gz
+  version: 1.2.21
+- architecture: arm64
+  changelog: https://github.com/anomalyco/opencode/releases/tag/v1.2.20
+  file_name: opencode-linux-arm64-musl.tar.gz
+  platform: linux
+  released_at: 2026-03-06T07:29:56Z
+  sha256_checksum: ""
+  tool_ref: opencode
+  url: https://github.com/anomalyco/opencode/releases/download/v1.2.20/opencode-linux-arm64-musl.tar.gz
+  version: 1.2.20
+- architecture: arm64
+  changelog: https://github.com/anomalyco/opencode/releases/tag/v1.2.19
+  file_name: opencode-linux-arm64-musl.tar.gz
+  platform: linux
+  released_at: 2026-03-06T04:29:31Z
+  sha256_checksum: ""
+  tool_ref: opencode
+  url: https://github.com/anomalyco/opencode/releases/download/v1.2.19/opencode-linux-arm64-musl.tar.gz
+  version: 1.2.19
+- architecture: arm64
+  changelog: https://github.com/anomalyco/opencode/releases/tag/v1.2.18
+  file_name: opencode-linux-arm64-musl.tar.gz
+  platform: linux
+  released_at: 2026-03-05T19:01:30Z
+  sha256_checksum: ""
+  tool_ref: opencode
+  url: https://github.com/anomalyco/opencode/releases/download/v1.2.18/opencode-linux-arm64-musl.tar.gz
+  version: 1.2.18
+- architecture: arm64
+  changelog: https://github.com/anomalyco/opencode/releases/tag/v1.2.17
+  file_name: opencode-linux-arm64-musl.tar.gz
+  platform: linux
+  released_at: 2026-03-04T14:58:43Z
+  sha256_checksum: ""
+  tool_ref: opencode
+  url: https://github.com/anomalyco/opencode/releases/download/v1.2.17/opencode-linux-arm64-musl.tar.gz
+  version: 1.2.17
+- architecture: arm64
+  changelog: https://github.com/anomalyco/opencode/releases/tag/v1.2.16
+  file_name: opencode-linux-arm64-musl.tar.gz
+  platform: linux
+  released_at: 2026-03-03T21:08:54Z
+  sha256_checksum: ""
+  tool_ref: opencode
+  url: https://github.com/anomalyco/opencode/releases/download/v1.2.16/opencode-linux-arm64-musl.tar.gz
+  version: 1.2.16
+- architecture: arm64
+  changelog: https://github.com/anomalyco/opencode/releases/tag/v1.2.15
+  file_name: opencode-linux-arm64-musl.tar.gz
+  platform: linux
+  released_at: 2026-02-26T08:22:40Z
+  sha256_checksum: ""
+  tool_ref: opencode
+  url: https://github.com/anomalyco/opencode/releases/download/v1.2.15/opencode-linux-arm64-musl.tar.gz
+  version: 1.2.15
+- architecture: arm64
+  changelog: https://github.com/anomalyco/opencode/releases/tag/v1.2.14
+  file_name: opencode-linux-arm64-musl.tar.gz
+  platform: linux
+  released_at: 2026-02-25T14:56:11Z
+  sha256_checksum: ""
+  tool_ref: opencode
+  url: https://github.com/anomalyco/opencode/releases/download/v1.2.14/opencode-linux-arm64-musl.tar.gz
+  version: 1.2.14
+- architecture: arm64
+  changelog: https://github.com/anomalyco/opencode/releases/tag/v1.2.13
+  file_name: opencode-linux-arm64-musl.tar.gz
+  platform: linux
+  released_at: 2026-02-25T07:27:33Z
+  sha256_checksum: ""
+  tool_ref: opencode
+  url: https://github.com/anomalyco/opencode/releases/download/v1.2.13/opencode-linux-arm64-musl.tar.gz
+  version: 1.2.13
+- architecture: arm64
+  changelog: https://github.com/anomalyco/opencode/releases/tag/v1.2.12
+  file_name: opencode-linux-arm64-musl.tar.gz
+  platform: linux
+  released_at: 2026-02-25T07:12:41Z
+  sha256_checksum: ""
+  tool_ref: opencode
+  url: https://github.com/anomalyco/opencode/releases/download/v1.2.12/opencode-linux-arm64-musl.tar.gz
+  version: 1.2.12
+- architecture: arm64
+  changelog: https://github.com/anomalyco/opencode/releases/tag/v1.2.11
+  file_name: opencode-linux-arm64-musl.tar.gz
+  platform: linux
+  released_at: 2026-02-24T23:29:16Z
+  sha256_checksum: ""
+  tool_ref: opencode
+  url: https://github.com/anomalyco/opencode/releases/download/v1.2.11/opencode-linux-arm64-musl.tar.gz
+  version: 1.2.11
+- architecture: arm64
   changelog: https://github.com/anomalyco/opencode/releases/tag/v1.2.10
   file_name: opencode-linux-arm64-musl.tar.gz
   platform: linux
   released_at: 2026-02-20T11:18:54Z
   sha256_checksum: ""
-  tags:
-    - latest
   tool_ref: opencode
   url: https://github.com/anomalyco/opencode/releases/download/v1.2.10/opencode-linux-arm64-musl.tar.gz
   version: 1.2.10
@@ -5510,13 +6554,58 @@
   url: https://github.com/pypa/pipx/releases/download/1.7.0/pipx.pyz
   version: 1.7.0
 - architecture: arm64
+  changelog: https://github.com/pnpm/pnpm/releases/tag/v11.0.0-alpha.14
+  file_name: pnpm-linux-arm64.tar.gz
+  platform: linux
+  released_at: 2026-03-11T00:16:34Z
+  sha256_checksum: ""
+  tags:
+    - latest-prerelease
+  tool_ref: pnpm
+  url: https://github.com/pnpm/pnpm/releases/download/v11.0.0-alpha.14/pnpm-linux-arm64.tar.gz
+  version: 11.0.0-alpha.14
+- architecture: arm64
+  changelog: https://github.com/pnpm/pnpm/releases/tag/v11.0.0-alpha.13
+  file_name: pnpm-linux-arm64.tar.gz
+  platform: linux
+  released_at: 2026-03-07T13:32:58Z
+  sha256_checksum: ""
+  tool_ref: pnpm
+  url: https://github.com/pnpm/pnpm/releases/download/v11.0.0-alpha.13/pnpm-linux-arm64.tar.gz
+  version: 11.0.0-alpha.13
+- architecture: arm64
+  changelog: https://github.com/pnpm/pnpm/releases/tag/v11.0.0-alpha.12
+  file_name: pnpm-linux-arm64.tar.gz
+  platform: linux
+  released_at: 2026-03-01T19:04:09Z
+  sha256_checksum: ""
+  tool_ref: pnpm
+  url: https://github.com/pnpm/pnpm/releases/download/v11.0.0-alpha.12/pnpm-linux-arm64.tar.gz
+  version: 11.0.0-alpha.12
+- architecture: arm64
+  changelog: https://github.com/pnpm/pnpm/releases/tag/v11.0.0-alpha.11
+  file_name: pnpm-linux-arm64.tar.gz
+  platform: linux
+  released_at: 2026-02-24T09:56:10Z
+  sha256_checksum: ""
+  tool_ref: pnpm
+  url: https://github.com/pnpm/pnpm/releases/download/v11.0.0-alpha.11/pnpm-linux-arm64.tar.gz
+  version: 11.0.0-alpha.11
+- architecture: arm64
+  changelog: https://github.com/pnpm/pnpm/releases/tag/v11.0.0-alpha.10
+  file_name: pnpm-linux-arm64.tar.gz
+  platform: linux
+  released_at: 2026-02-23T15:30:51Z
+  sha256_checksum: ""
+  tool_ref: pnpm
+  url: https://github.com/pnpm/pnpm/releases/download/v11.0.0-alpha.10/pnpm-linux-arm64.tar.gz
+  version: 11.0.0-alpha.10
+- architecture: arm64
   changelog: https://github.com/pnpm/pnpm/releases/tag/v11.0.0-alpha.5
   file_name: pnpm-linux-arm64
   platform: linux
   released_at: 2026-02-17T13:55:11Z
   sha256_checksum: ""
-  tags:
-    - latest-prerelease
   tool_ref: pnpm
   url: https://github.com/pnpm/pnpm/releases/download/v11.0.0-alpha.5/pnpm-linux-arm64
   version: 11.0.0-alpha.5
@@ -5548,13 +6637,58 @@
   url: https://github.com/pnpm/pnpm/releases/download/v11.0.0-alpha.2/pnpm-linux-arm64
   version: 11.0.0-alpha.2
 - architecture: arm64
+  changelog: https://github.com/pnpm/pnpm/releases/tag/v10.32.1
+  file_name: pnpm-linux-arm64
+  platform: linux
+  released_at: 2026-03-11T01:38:49Z
+  sha256_checksum: ""
+  tags:
+    - latest
+  tool_ref: pnpm
+  url: https://github.com/pnpm/pnpm/releases/download/v10.32.1/pnpm-linux-arm64
+  version: 10.32.1
+- architecture: arm64
+  changelog: https://github.com/pnpm/pnpm/releases/tag/v10.32.0
+  file_name: pnpm-linux-arm64
+  platform: linux
+  released_at: 2026-03-09T21:51:33Z
+  sha256_checksum: ""
+  tool_ref: pnpm
+  url: https://github.com/pnpm/pnpm/releases/download/v10.32.0/pnpm-linux-arm64
+  version: 10.32.0
+- architecture: arm64
+  changelog: https://github.com/pnpm/pnpm/releases/tag/v10.31.0
+  file_name: pnpm-linux-arm64
+  platform: linux
+  released_at: 2026-03-07T23:44:24Z
+  sha256_checksum: ""
+  tool_ref: pnpm
+  url: https://github.com/pnpm/pnpm/releases/download/v10.31.0/pnpm-linux-arm64
+  version: 10.31.0
+- architecture: arm64
+  changelog: https://github.com/pnpm/pnpm/releases/tag/v10.30.3
+  file_name: pnpm-linux-arm64
+  platform: linux
+  released_at: 2026-02-26T09:53:20Z
+  sha256_checksum: ""
+  tool_ref: pnpm
+  url: https://github.com/pnpm/pnpm/releases/download/v10.30.3/pnpm-linux-arm64
+  version: 10.30.3
+- architecture: arm64
+  changelog: https://github.com/pnpm/pnpm/releases/tag/v10.30.2
+  file_name: pnpm-linux-arm64
+  platform: linux
+  released_at: 2026-02-23T23:56:43Z
+  sha256_checksum: ""
+  tool_ref: pnpm
+  url: https://github.com/pnpm/pnpm/releases/download/v10.30.2/pnpm-linux-arm64
+  version: 10.30.2
+- architecture: arm64
   changelog: https://github.com/pnpm/pnpm/releases/tag/v10.30.1
   file_name: pnpm-linux-arm64
   platform: linux
   released_at: 2026-02-20T01:17:18Z
   sha256_checksum: ""
-  tags:
-    - latest
   tool_ref: pnpm
   url: https://github.com/pnpm/pnpm/releases/download/v10.30.1/pnpm-linux-arm64
   version: 10.30.1
@@ -6364,61 +7498,61 @@
   url: https://github.com/containers/podman/releases/download/v5.3.0/podman-remote-static-linux_arm64.tar.gz
   version: 5.3.0
 - architecture: arm64
-  changelog: https://github.com/astral-sh/python-build-standalone/releases/tag/20260203
-  file_name: cpython-3.14.3+20260203-aarch64-unknown-linux-gnu-debug-full.tar.zst
+  changelog: https://github.com/astral-sh/python-build-standalone/releases/tag/20260310
+  file_name: cpython-3.14.3+20260310-aarch64-unknown-linux-gnu-pgo+lto-full.tar.zst
   platform: linux
-  released_at: 2026-02-03T00:00:00Z
+  released_at: 2026-03-10T00:00:00Z
   sha256_checksum: ""
   tags:
-    - "2026-02-03T00:00:00Z"
+    - "2026-03-10T00:00:00Z"
     - latest
   tool_ref: python
-  url: https://github.com/astral-sh/python-build-standalone/releases/download/20260203/cpython-3.14.3%2B20260203-aarch64-unknown-linux-gnu-debug-full.tar.zst
+  url: https://github.com/astral-sh/python-build-standalone/releases/download/20260310/cpython-3.14.3%2B20260310-aarch64-unknown-linux-gnu-pgo%2Blto-full.tar.zst
   version: 3.14.3
 - architecture: arm64
-  changelog: https://github.com/astral-sh/python-build-standalone/releases/tag/20260203
-  file_name: cpython-3.13.12+20260203-aarch64-unknown-linux-gnu-debug-full.tar.zst
+  changelog: https://github.com/astral-sh/python-build-standalone/releases/tag/20260310
+  file_name: cpython-3.13.12+20260310-aarch64-unknown-linux-gnu-pgo+lto-full.tar.zst
   platform: linux
-  released_at: 2026-02-03T00:00:00Z
+  released_at: 2026-03-10T00:00:00Z
   sha256_checksum: ""
   tags:
-    - "2026-02-03T00:00:00Z"
+    - "2026-03-10T00:00:00Z"
   tool_ref: python
-  url: https://github.com/astral-sh/python-build-standalone/releases/download/20260203/cpython-3.13.12%2B20260203-aarch64-unknown-linux-gnu-debug-full.tar.zst
+  url: https://github.com/astral-sh/python-build-standalone/releases/download/20260310/cpython-3.13.12%2B20260310-aarch64-unknown-linux-gnu-pgo%2Blto-full.tar.zst
   version: 3.13.12
 - architecture: arm64
-  changelog: https://github.com/astral-sh/python-build-standalone/releases/tag/20260203
-  file_name: cpython-3.12.12+20260203-aarch64-unknown-linux-gnu-debug-full.tar.zst
+  changelog: https://github.com/astral-sh/python-build-standalone/releases/tag/20260310
+  file_name: cpython-3.12.13+20260310-aarch64-unknown-linux-gnu-pgo+lto-full.tar.zst
   platform: linux
-  released_at: 2026-02-03T00:00:00Z
+  released_at: 2026-03-10T00:00:00Z
   sha256_checksum: ""
   tags:
-    - "2026-02-03T00:00:00Z"
+    - "2026-03-10T00:00:00Z"
   tool_ref: python
-  url: https://github.com/astral-sh/python-build-standalone/releases/download/20260203/cpython-3.12.12%2B20260203-aarch64-unknown-linux-gnu-debug-full.tar.zst
-  version: 3.12.12
+  url: https://github.com/astral-sh/python-build-standalone/releases/download/20260310/cpython-3.12.13%2B20260310-aarch64-unknown-linux-gnu-pgo%2Blto-full.tar.zst
+  version: 3.12.13
 - architecture: arm64
-  changelog: https://github.com/astral-sh/python-build-standalone/releases/tag/20260203
-  file_name: cpython-3.11.14+20260203-aarch64-unknown-linux-gnu-debug-full.tar.zst
+  changelog: https://github.com/astral-sh/python-build-standalone/releases/tag/20260310
+  file_name: cpython-3.11.15+20260310-aarch64-unknown-linux-gnu-pgo+lto-full.tar.zst
   platform: linux
-  released_at: 2026-02-03T00:00:00Z
+  released_at: 2026-03-10T00:00:00Z
   sha256_checksum: ""
   tags:
-    - "2026-02-03T00:00:00Z"
+    - "2026-03-10T00:00:00Z"
   tool_ref: python
-  url: https://github.com/astral-sh/python-build-standalone/releases/download/20260203/cpython-3.11.14%2B20260203-aarch64-unknown-linux-gnu-debug-full.tar.zst
-  version: 3.11.14
+  url: https://github.com/astral-sh/python-build-standalone/releases/download/20260310/cpython-3.11.15%2B20260310-aarch64-unknown-linux-gnu-pgo%2Blto-full.tar.zst
+  version: 3.11.15
 - architecture: arm64
-  changelog: https://github.com/astral-sh/python-build-standalone/releases/tag/20260203
-  file_name: cpython-3.10.19+20260203-aarch64-unknown-linux-gnu-debug-full.tar.zst
+  changelog: https://github.com/astral-sh/python-build-standalone/releases/tag/20260310
+  file_name: cpython-3.10.20+20260310-aarch64-unknown-linux-gnu-pgo+lto-full.tar.zst
   platform: linux
-  released_at: 2026-02-03T00:00:00Z
+  released_at: 2026-03-10T00:00:00Z
   sha256_checksum: ""
   tags:
-    - "2026-02-03T00:00:00Z"
+    - "2026-03-10T00:00:00Z"
   tool_ref: python
-  url: https://github.com/astral-sh/python-build-standalone/releases/download/20260203/cpython-3.10.19%2B20260203-aarch64-unknown-linux-gnu-debug-full.tar.zst
-  version: 3.10.19
+  url: https://github.com/astral-sh/python-build-standalone/releases/download/20260310/cpython-3.10.20%2B20260310-aarch64-unknown-linux-gnu-pgo%2Blto-full.tar.zst
+  version: 3.10.20
 - architecture: arm64
   changelog: https://github.com/rootless-containers/rootlesskit/releases/tag/v3.0.0-alpha.2
   file_name: rootlesskit-aarch64.tar.gz
@@ -6644,13 +7778,22 @@
   url: https://github.com/opencontainers/runc/releases/download/v1.2.6/runc.arm64
   version: 1.2.6
 - architecture: arm64
+  changelog: https://github.com/boyter/scc/releases/tag/v3.7.0
+  file_name: scc_Linux_arm64.tar.gz
+  platform: linux
+  released_at: 2026-03-04T22:34:24Z
+  sha256_checksum: dcb05c6e993bb2d8d2da4765ff018f2e752325dd205a41698929c55e4123575d
+  tags:
+    - latest
+  tool_ref: scc
+  url: https://github.com/boyter/scc/releases/download/v3.7.0/scc_Linux_arm64.tar.gz
+  version: 3.7.0
+- architecture: arm64
   changelog: https://github.com/boyter/scc/releases/tag/v3.6.0
   file_name: scc_Linux_arm64.tar.gz
   platform: linux
   released_at: 2025-10-31T05:35:02Z
   sha256_checksum: 87fd3f5d4c393c6b665d23bf9b601753b2f6f8a953e6f265d5ea1498195d082f
-  tags:
-    - latest
   tool_ref: scc
   url: https://github.com/boyter/scc/releases/download/v3.6.0/scc_Linux_arm64.tar.gz
   version: 3.6.0
@@ -6711,13 +7854,40 @@
   url: https://github.com/rootless-containers/slirp4netns/releases/download/v1.2.3/slirp4netns-aarch64
   version: 1.2.3
 - architecture: arm64
+  changelog: https://github.com/stripe/stripe-cli/releases/tag/v1.37.2
+  file_name: stripe_1.37.2_linux_arm64.tar.gz
+  platform: linux
+  released_at: 2026-03-02T21:36:48Z
+  sha256_checksum: sha256:b4c006ce9c419044fbe077eea68212b1b4c5f9a8999a7d3f07be91c0cae63f69
+  tags:
+    - latest
+  tool_ref: stripe_cli
+  url: https://github.com/stripe/stripe-cli/releases/download/v1.37.2/stripe_1.37.2_linux_arm64.tar.gz
+  version: 1.37.2
+- architecture: arm64
+  changelog: https://github.com/stripe/stripe-cli/releases/tag/v1.37.1
+  file_name: stripe_1.37.1_linux_arm64.tar.gz
+  platform: linux
+  released_at: 2026-02-25T22:06:11Z
+  sha256_checksum: sha256:a38c8e3e0dfd8667adc3fc2ef3130ddf38f81ef9276b9138861fff1c06891ce9
+  tool_ref: stripe_cli
+  url: https://github.com/stripe/stripe-cli/releases/download/v1.37.1/stripe_1.37.1_linux_arm64.tar.gz
+  version: 1.37.1
+- architecture: arm64
+  changelog: https://github.com/stripe/stripe-cli/releases/tag/v1.37.0
+  file_name: stripe_1.37.0_linux_arm64.tar.gz
+  platform: linux
+  released_at: 2026-02-25T18:58:43Z
+  sha256_checksum: sha256:1af5df998e91d235f1917825ed169c80e67d97bdd4323ac4eceb3b9f833f1c00
+  tool_ref: stripe_cli
+  url: https://github.com/stripe/stripe-cli/releases/download/v1.37.0/stripe_1.37.0_linux_arm64.tar.gz
+  version: 1.37.0
+- architecture: arm64
   changelog: https://github.com/stripe/stripe-cli/releases/tag/v1.35.1
   file_name: stripe_1.35.1_linux_arm64.tar.gz
   platform: linux
   released_at: 2026-02-17T18:28:32Z
   sha256_checksum: sha256:1eea9b8787c8101acebd7bca512a4ef244c17a9410d875773084dbad5eb79ddb
-  tags:
-    - latest
   tool_ref: stripe_cli
   url: https://github.com/stripe/stripe-cli/releases/download/v1.35.1/stripe_1.35.1_linux_arm64.tar.gz
   version: 1.35.1
@@ -6812,13 +7982,94 @@
   url: https://github.com/stripe/stripe-cli/releases/download/v1.28.0/stripe_1.28.0_linux_arm64.tar.gz
   version: 1.28.0
 - architecture: arm64
+  changelog: https://github.com/supabase/cli/releases/tag/v2.78.1
+  file_name: supabase_linux_arm64.tar.gz
+  platform: linux
+  released_at: 2026-03-10T16:29:45Z
+  sha256_checksum: sha256:b3d941c1aefbe469db17af1a12373c8a9176e24b9f9499bd509477e5be598501
+  tags:
+    - latest
+  tool_ref: supabase_cli
+  url: https://github.com/supabase/cli/releases/download/v2.78.1/supabase_linux_arm64.tar.gz
+  version: 2.78.1
+- architecture: arm64
+  changelog: https://github.com/supabase/cli/releases/tag/v2.78.0
+  file_name: supabase_linux_arm64.tar.gz
+  platform: linux
+  released_at: 2026-03-10T14:13:16Z
+  sha256_checksum: sha256:09156decf50429c94a459f4da1237e5e212cf4bdd9209ed331ce0a2ce688216e
+  tool_ref: supabase_cli
+  url: https://github.com/supabase/cli/releases/download/v2.78.0/supabase_linux_arm64.tar.gz
+  version: 2.78.0
+- architecture: arm64
+  changelog: https://github.com/supabase/cli/releases/tag/v2.77.1
+  file_name: supabase_linux_arm64.tar.gz
+  platform: linux
+  released_at: 2026-03-09T15:25:38Z
+  sha256_checksum: sha256:4318035b57a7a8786b884ecfdf22e6bfbe688e5bd4d766a860ecc071a004d54d
+  tool_ref: supabase_cli
+  url: https://github.com/supabase/cli/releases/download/v2.77.1/supabase_linux_arm64.tar.gz
+  version: 2.77.1
+- architecture: arm64
+  changelog: https://github.com/supabase/cli/releases/tag/v2.77.0
+  file_name: supabase_linux_arm64.tar.gz
+  platform: linux
+  released_at: 2026-03-06T15:18:54Z
+  sha256_checksum: sha256:8e78953cd182cfa210650ca04bd409cb4e9f54ee6f78a4000f2cc7e61e264570
+  tool_ref: supabase_cli
+  url: https://github.com/supabase/cli/releases/download/v2.77.0/supabase_linux_arm64.tar.gz
+  version: 2.77.0
+- architecture: arm64
+  changelog: https://github.com/supabase/cli/releases/tag/v2.76.17
+  file_name: supabase_linux_arm64.tar.gz
+  platform: linux
+  released_at: 2026-03-05T13:50:06Z
+  sha256_checksum: sha256:79e83a444a5622424c62cb9a1e4444f7d7942559da81118d53ad4507ff547085
+  tool_ref: supabase_cli
+  url: https://github.com/supabase/cli/releases/download/v2.76.17/supabase_linux_arm64.tar.gz
+  version: 2.76.17
+- architecture: arm64
+  changelog: https://github.com/supabase/cli/releases/tag/v2.76.16
+  file_name: supabase_linux_arm64.tar.gz
+  platform: linux
+  released_at: 2026-03-03T09:16:50Z
+  sha256_checksum: sha256:84720115d21469c17de7b4e0390833cb78c494103ac7c006cc5093f49087d65c
+  tool_ref: supabase_cli
+  url: https://github.com/supabase/cli/releases/download/v2.76.16/supabase_linux_arm64.tar.gz
+  version: 2.76.16
+- architecture: arm64
+  changelog: https://github.com/supabase/cli/releases/tag/v2.76.15
+  file_name: supabase_linux_arm64.tar.gz
+  platform: linux
+  released_at: 2026-02-25T10:25:45Z
+  sha256_checksum: sha256:2ef3f6ba962a4c8e00df668820f2e4d06dd4f234982bc15dce6ce5cb29df1959
+  tool_ref: supabase_cli
+  url: https://github.com/supabase/cli/releases/download/v2.76.15/supabase_linux_arm64.tar.gz
+  version: 2.76.15
+- architecture: arm64
+  changelog: https://github.com/supabase/cli/releases/tag/v2.76.14
+  file_name: supabase_linux_arm64.tar.gz
+  platform: linux
+  released_at: 2026-02-23T19:45:46Z
+  sha256_checksum: sha256:d445b00404e8daaac627442d6d016e1fe0798c21f6900f93e93350e50e5d2bb3
+  tool_ref: supabase_cli
+  url: https://github.com/supabase/cli/releases/download/v2.76.14/supabase_linux_arm64.tar.gz
+  version: 2.76.14
+- architecture: arm64
+  changelog: https://github.com/supabase/cli/releases/tag/v2.76.13
+  file_name: supabase_linux_arm64.tar.gz
+  platform: linux
+  released_at: 2026-02-23T14:08:08Z
+  sha256_checksum: sha256:a02fd98b65891805d1eacb73f98714caa41e5b2777cba421f65fd765f2ef2311
+  tool_ref: supabase_cli
+  url: https://github.com/supabase/cli/releases/download/v2.76.13/supabase_linux_arm64.tar.gz
+  version: 2.76.13
+- architecture: arm64
   changelog: https://github.com/supabase/cli/releases/tag/v2.76.12
   file_name: supabase_linux_arm64.tar.gz
   platform: linux
   released_at: 2026-02-20T15:35:51Z
   sha256_checksum: sha256:76222444cdadd723a94d5b96746106f16f0b9b5969205911345979ae16d97dea
-  tags:
-    - latest
   tool_ref: supabase_cli
   url: https://github.com/supabase/cli/releases/download/v2.76.12/supabase_linux_arm64.tar.gz
   version: 2.76.12
@@ -9019,14 +10270,23 @@
   url: https://github.com/supabase/cli/releases/download/v2.31.4/supabase_linux_arm64.tar.gz
   version: 2.31.4
 - architecture: arm64
+  changelog: https://github.com/tailwindlabs/tailwindcss/releases/tag/v4.2.1
+  file_name: tailwindcss-linux-arm64
+  platform: linux
+  released_at: 2026-02-23T12:51:32Z
+  sha256_checksum: ""
+  tags:
+    - latest
+    - V4
+  tool_ref: tailwind_cli
+  url: https://github.com/tailwindlabs/tailwindcss/releases/download/v4.2.1/tailwindcss-linux-arm64
+  version: 4.2.1
+- architecture: arm64
   changelog: https://github.com/tailwindlabs/tailwindcss/releases/tag/v4.2.0
   file_name: tailwindcss-linux-arm64
   platform: linux
   released_at: 2026-02-18T14:58:28Z
   sha256_checksum: ""
-  tags:
-    - V4
-    - latest
   tool_ref: tailwind_cli
   url: https://github.com/tailwindlabs/tailwindcss/releases/download/v4.2.0/tailwindcss-linux-arm64
   version: 4.2.0
@@ -9213,13 +10473,31 @@
   url: https://github.com/tailwindlabs/tailwindcss/releases/download/v3.4.18/tailwindcss-linux-arm64
   version: 3.4.18
 - architecture: arm64
+  changelog: https://github.com/go-task/task/releases/tag/v3.49.1
+  file_name: task_linux_arm64.tar.gz
+  platform: linux
+  released_at: 2026-03-08T20:08:19Z
+  sha256_checksum: sha256:aa6732c9c66397c5380ec2b60c070fd599075b2a8538dba03f3a21edc99ab0cb
+  tags:
+    - latest
+  tool_ref: task
+  url: https://github.com/go-task/task/releases/download/v3.49.1/task_linux_arm64.tar.gz
+  version: 3.49.1
+- architecture: arm64
+  changelog: https://github.com/go-task/task/releases/tag/v3.49.0
+  file_name: task_linux_arm64.tar.gz
+  platform: linux
+  released_at: 2026-03-07T22:26:04Z
+  sha256_checksum: sha256:ca7ef9ac252ff57403fe4e765166a5dbbf0f801b05a13896871a06ab10a62d34
+  tool_ref: task
+  url: https://github.com/go-task/task/releases/download/v3.49.0/task_linux_arm64.tar.gz
+  version: 3.49.0
+- architecture: arm64
   changelog: https://github.com/go-task/task/releases/tag/v3.48.0
   file_name: task_linux_arm64.tar.gz
   platform: linux
   released_at: 2026-01-26T12:30:54Z
   sha256_checksum: sha256:15a54fd45f706ce0f4c679c93cf04e02d72ca7223f157209201a1576008056d6
-  tags:
-    - latest
   tool_ref: task
   url: https://github.com/go-task/task/releases/download/v3.48.0/task_linux_arm64.tar.gz
   version: 3.48.0
@@ -9296,13 +10574,31 @@
   url: https://github.com/go-task/task/releases/download/v3.45.3/task_linux_arm64.tar.gz
   version: 3.45.3
 - architecture: arm64
+  changelog: https://github.com/aquasecurity/trivy/releases/tag/v0.69.3
+  file_name: trivy_0.69.3_Linux-ARM64.tar.gz
+  platform: linux
+  released_at: 2026-03-03T13:14:37Z
+  sha256_checksum: 7e3924a974e912e57b4a99f65ece7931f8079584dae12eb7845024f97087bdfd
+  tags:
+    - latest
+  tool_ref: trivy
+  url: https://github.com/aquasecurity/trivy/releases/download/v0.69.3/trivy_0.69.3_Linux-ARM64.tar.gz
+  version: 0.69.3
+- architecture: arm64
+  changelog: https://github.com/aquasecurity/trivy/releases/tag/v0.69.2
+  file_name: trivy_0.69.2_Linux-ARM64.tar.gz
+  platform: linux
+  released_at: 2026-03-01T19:14:04Z
+  sha256_checksum: c73b97699c317b0d25532b3f188564b4e29d13d5472ce6f8eb078082546a6481
+  tool_ref: trivy
+  url: https://github.com/aquasecurity/trivy/releases/download/v0.69.2/trivy_0.69.2_Linux-ARM64.tar.gz
+  version: 0.69.2
+- architecture: arm64
   changelog: https://github.com/aquasecurity/trivy/releases/tag/v0.69.1
   file_name: trivy_0.69.1_Linux-ARM64.tar.gz
   platform: linux
   released_at: 2026-02-05T13:11:43Z
   sha256_checksum: 7a98c13e6c5799fc46219c94fa500b807532b4555501cce85fa4eead9f755516
-  tags:
-    - latest
   tool_ref: trivy
   url: https://github.com/aquasecurity/trivy/releases/download/v0.69.1/trivy_0.69.1_Linux-ARM64.tar.gz
   version: 0.69.1
@@ -9433,13 +10729,49 @@
   url: https://github.com/aquasecurity/trivy/releases/download/v0.61.1/trivy_0.61.1_Linux-ARM64.tar.gz
   version: 0.61.1
 - architecture: arm64
+  changelog: https://github.com/trufflesecurity/trufflehog/releases/tag/v3.93.8
+  file_name: trufflehog_3.93.8_linux_arm64.tar.gz
+  platform: linux
+  released_at: 2026-03-09T20:04:03Z
+  sha256_checksum: 9d51b703515502ee5a7be0ac48719a8f13c33544cecb5abaedcaaf6ad8238537
+  tags:
+    - latest
+  tool_ref: trufflehog
+  url: https://github.com/trufflesecurity/trufflehog/releases/download/v3.93.8/trufflehog_3.93.8_linux_arm64.tar.gz
+  version: 3.93.8
+- architecture: arm64
+  changelog: https://github.com/trufflesecurity/trufflehog/releases/tag/v3.93.7
+  file_name: trufflehog_3.93.7_linux_arm64.tar.gz
+  platform: linux
+  released_at: 2026-03-04T15:58:48Z
+  sha256_checksum: 8a0fba600d564912e3d7450766847e4ce0d7cda08edd44c346eb899c71ace067
+  tool_ref: trufflehog
+  url: https://github.com/trufflesecurity/trufflehog/releases/download/v3.93.7/trufflehog_3.93.7_linux_arm64.tar.gz
+  version: 3.93.7
+- architecture: arm64
+  changelog: https://github.com/trufflesecurity/trufflehog/releases/tag/v3.93.6
+  file_name: trufflehog_3.93.6_linux_arm64.tar.gz
+  platform: linux
+  released_at: 2026-02-27T15:09:47Z
+  sha256_checksum: 631c70f50c1df6f709efcd2779c5546fd7bbd54e27b74eb08dcb588c78a854fe
+  tool_ref: trufflehog
+  url: https://github.com/trufflesecurity/trufflehog/releases/download/v3.93.6/trufflehog_3.93.6_linux_arm64.tar.gz
+  version: 3.93.6
+- architecture: arm64
+  changelog: https://github.com/trufflesecurity/trufflehog/releases/tag/v3.93.5
+  file_name: trufflehog_3.93.5_linux_arm64.tar.gz
+  platform: linux
+  released_at: 2026-02-26T19:30:42Z
+  sha256_checksum: 7918da5b2957e2c57577a07a535f3f417ad970189d62d9540f9af3cb210fb854
+  tool_ref: trufflehog
+  url: https://github.com/trufflesecurity/trufflehog/releases/download/v3.93.5/trufflehog_3.93.5_linux_arm64.tar.gz
+  version: 3.93.5
+- architecture: arm64
   changelog: https://github.com/trufflesecurity/trufflehog/releases/tag/v3.93.4
   file_name: trufflehog_3.93.4_linux_arm64.tar.gz
   platform: linux
   released_at: 2026-02-19T14:17:56Z
   sha256_checksum: 1dcdb1a0e5926e364541929fbb04277f41ac873acd79f417d6b63da6315eb689
-  tags:
-    - latest
   tool_ref: trufflehog
   url: https://github.com/trufflesecurity/trufflehog/releases/download/v3.93.4/trufflehog_3.93.4_linux_arm64.tar.gz
   version: 3.93.4
@@ -10002,13 +11334,22 @@
   url: https://github.com/trufflesecurity/trufflehog/releases/download/v3.88.4/trufflehog_3.88.4_linux_arm64.tar.gz
   version: 3.88.4
 - architecture: arm64
+  changelog: https://github.com/upx/upx/releases/tag/v5.1.1
+  file_name: upx-5.1.1-arm64_linux.tar.xz
+  platform: linux
+  released_at: 2026-03-05T15:16:15Z
+  sha256_checksum: sha256:a307c2c821eeab47607ba5c232408b22ab884cca13884682508b98f7308b8443
+  tags:
+    - latest
+  tool_ref: upx
+  url: https://github.com/upx/upx/releases/download/v5.1.1/upx-5.1.1-arm64_linux.tar.xz
+  version: 5.1.1
+- architecture: arm64
   changelog: https://github.com/upx/upx/releases/tag/v5.1.0
   file_name: upx-5.1.0-arm64_linux.tar.xz
   platform: linux
   released_at: 2026-01-07T13:40:22Z
   sha256_checksum: sha256:222dde34dfa3244a31b06c97820ee651515270e524736f532ac8456783afe76e
-  tags:
-    - latest
   tool_ref: upx
   url: https://github.com/upx/upx/releases/download/v5.1.0/upx-5.1.0-arm64_linux.tar.xz
   version: 5.1.0
@@ -10022,13 +11363,58 @@
   url: https://github.com/upx/upx/releases/download/v5.0.2/upx-5.0.2-arm64_linux.tar.xz
   version: 5.0.2
 - architecture: arm64
+  changelog: https://github.com/astral-sh/uv/releases/tag/0.10.9
+  file_name: uv-aarch64-unknown-linux-gnu.tar.gz
+  platform: linux
+  released_at: 2026-03-06T21:24:15Z
+  sha256_checksum: sha256:cc0c5a8573e7d6d78aecb954e0a62b5c0d18217bb81f1e19363b428c57a9962a
+  tags:
+    - latest
+  tool_ref: uv
+  url: https://github.com/astral-sh/uv/releases/download/0.10.9/uv-aarch64-unknown-linux-gnu.tar.gz
+  version: 0.10.9
+- architecture: arm64
+  changelog: https://github.com/astral-sh/uv/releases/tag/0.10.8
+  file_name: uv-aarch64-unknown-linux-gnu.tar.gz
+  platform: linux
+  released_at: 2026-03-03T21:39:09Z
+  sha256_checksum: sha256:661860e954f87dcd823251191866af3486484d1a9df60eed56f4586ed7559e3d
+  tool_ref: uv
+  url: https://github.com/astral-sh/uv/releases/download/0.10.8/uv-aarch64-unknown-linux-gnu.tar.gz
+  version: 0.10.8
+- architecture: arm64
+  changelog: https://github.com/astral-sh/uv/releases/tag/0.10.7
+  file_name: uv-aarch64-unknown-linux-gnu.tar.gz
+  platform: linux
+  released_at: 2026-02-27T12:36:47Z
+  sha256_checksum: sha256:20efc27d946860093650bcf26096a016b10fdaf03b13c33b75fbde02962beea9
+  tool_ref: uv
+  url: https://github.com/astral-sh/uv/releases/download/0.10.7/uv-aarch64-unknown-linux-gnu.tar.gz
+  version: 0.10.7
+- architecture: arm64
+  changelog: https://github.com/astral-sh/uv/releases/tag/0.10.6
+  file_name: uv-aarch64-unknown-linux-gnu.tar.gz
+  platform: linux
+  released_at: 2026-02-25T00:30:19Z
+  sha256_checksum: sha256:9380705294a85e3e634570abddd5b2577900c1873c29b790c7abc56a81dce4bc
+  tool_ref: uv
+  url: https://github.com/astral-sh/uv/releases/download/0.10.6/uv-aarch64-unknown-linux-gnu.tar.gz
+  version: 0.10.6
+- architecture: arm64
+  changelog: https://github.com/astral-sh/uv/releases/tag/0.10.5
+  file_name: uv-aarch64-unknown-linux-gnu.tar.gz
+  platform: linux
+  released_at: 2026-02-24T04:06:55Z
+  sha256_checksum: sha256:dfa82b047456c646c50ba769af81a6b7ba20aaf5feee96e61554861db8db5809
+  tool_ref: uv
+  url: https://github.com/astral-sh/uv/releases/download/0.10.5/uv-aarch64-unknown-linux-gnu.tar.gz
+  version: 0.10.5
+- architecture: arm64
   changelog: https://github.com/astral-sh/uv/releases/tag/0.10.4
   file_name: uv-aarch64-unknown-linux-gnu.tar.gz
   platform: linux
   released_at: 2026-02-17T22:04:18Z
   sha256_checksum: sha256:c84a6e6405715caa6e2f5ef8e5f29a5d0bc558a954e9f1b5c082b9d4708c222e
-  tags:
-    - latest
   tool_ref: uv
   url: https://github.com/astral-sh/uv/releases/download/0.10.4/uv-aarch64-unknown-linux-gnu.tar.gz
   version: 0.10.4
@@ -10942,12 +12328,28 @@
   url: https://github.com/astral-sh/uv/releases/download/0.5.31/uv-aarch64-unknown-linux-gnu.tar.gz
   version: 0.5.31
 - architecture: arm64
-  changelog: https://github.com/wailsapp/wails/releases/tag/v3.0.0-alpha.72
+  changelog: https://github.com/wailsapp/wails/releases/tag/v3.0.0-alpha.74
   file_name: ""
   platform: linux
   sha256_checksum: ""
   tags:
     - latest-prerelease
+  tool_ref: wails
+  url: ""
+  version: 3.0.0-alpha.74
+- architecture: arm64
+  changelog: https://github.com/wailsapp/wails/releases/tag/v3.0.0-alpha.73
+  file_name: ""
+  platform: linux
+  sha256_checksum: ""
+  tool_ref: wails
+  url: ""
+  version: 3.0.0-alpha.73
+- architecture: arm64
+  changelog: https://github.com/wailsapp/wails/releases/tag/v3.0.0-alpha.72
+  file_name: ""
+  platform: linux
+  sha256_checksum: ""
   tool_ref: wails
   url: ""
   version: 3.0.0-alpha.72
